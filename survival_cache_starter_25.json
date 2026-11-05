@@ -1,0 +1,633 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-starter-25",
+  "module_title": "Emergency Foundations",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0005",
+      "title": "Immediate hazard assessment",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for immediate hazard assessment.",
+      "body": [
+        "Check for fire, floodwater, damaged electrical equipment, unstable structures, and hazardous air.",
+        "Move to a safer location when the route is clear.",
+        "Call emergency services when available and follow local instructions.",
+        "Account for everyone and reassess as conditions change."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0006",
+      "title": "Shelter or evacuate decision",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for shelter or evacuate decision.",
+      "body": [
+        "Check current evacuation orders and immediate threats.",
+        "Identify safe shelter options and accessible evacuation routes.",
+        "Consider household medical, mobility, and communication needs.",
+        "Leave early when directed; do not enter flooded roads."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0007",
+      "title": "Household accountability",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for household accountability.",
+      "body": [
+        "Use a printed roster and identify everyone in the household.",
+        "Record last known safe locations and contact methods.",
+        "Choose a meeting point and an alternate.",
+        "Share status through available communications and update the roster."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0008",
+      "title": "Incident information log",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for incident information log.",
+      "body": [
+        "Record the date, time, location, source, and observed conditions.",
+        "Separate verified observations from reports and assumptions.",
+        "Note decisions, actions, and outstanding needs.",
+        "Keep a paper copy when device power is uncertain."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0009",
+      "title": "Safe water priorities",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for safe water priorities.",
+      "body": [
+        "Use commercially bottled water when available.",
+        "Follow local boil water and do not drink advisories.",
+        "Keep untreated water separate from drinking water.",
+        "If chemical contamination is suspected, boiling does not make the water safe."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0010",
+      "title": "Water storage and rotation",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for water storage and rotation.",
+      "body": [
+        "Use clean food grade containers with secure lids.",
+        "Label containers with the filling date and source.",
+        "Store away from fuel, pesticides, and direct sunlight.",
+        "Inspect containers and follow public health guidance for replacement."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0011",
+      "title": "Boil water advisory response",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for boil water advisory response.",
+      "body": [
+        "Check the exact local advisory and affected area.",
+        "Follow the public health agency's boiling instructions and duration.",
+        "Use safe water for drinking, food preparation, and oral hygiene.",
+        "Wait for the official all clear before resuming normal use."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0012",
+      "title": "Water contamination warning signs",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for water contamination warning signs.",
+      "body": [
+        "Treat floodwater and water from damaged systems as potentially unsafe.",
+        "Do not rely on appearance, smell, or taste to establish safety.",
+        "Chemical contamination requires specific guidance; boiling may worsen concentration.",
+        "Consult the water utility or public health authority for approved alternatives."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0013",
+      "title": "First aid scene safety",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for first aid scene safety.",
+      "body": [
+        "Check the scene for hazards before approaching.",
+        "Call emergency services and request an AED when indicated.",
+        "Use gloves or other protective barriers when available.",
+        "Provide care within your training and follow dispatcher instructions."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0014",
+      "title": "Severe bleeding response",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for severe bleeding response.",
+      "body": [
+        "Call emergency services immediately.",
+        "Apply firm direct pressure with a clean dressing.",
+        "For life threatening limb bleeding, use a tourniquet if trained and one is available.",
+        "Monitor the person and follow emergency dispatcher instructions."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0015",
+      "title": "Heat illness recognition",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for heat illness recognition.",
+      "body": [
+        "Move the person away from heat and begin cooling.",
+        "Confusion, collapse, or altered consciousness may indicate heat stroke.",
+        "Call emergency services immediately for suspected heat stroke.",
+        "Do not give fluids by mouth to a person who cannot safely swallow."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0016",
+      "title": "Medication continuity planning",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for medication continuity planning.",
+      "body": [
+        "Maintain an up to date medication list with doses and prescriber contacts.",
+        "Keep medicines in their required storage conditions.",
+        "Ask a pharmacist about emergency refills and storage during outages.",
+        "Do not change prescriptions without qualified medical advice."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0017",
+      "title": "Shelter site selection",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for shelter site selection.",
+      "body": [
+        "Avoid floodplains, unstable trees, damaged structures, and downed lines.",
+        "Check ventilation, weather protection, and safe exits.",
+        "Keep combustion devices outside living and sleeping spaces.",
+        "Plan for accessibility, sanitation, and communication."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0018",
+      "title": "Carbon monoxide prevention",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for carbon monoxide prevention.",
+      "body": [
+        "Never run generators, grills, or fuel burning equipment indoors or in garages.",
+        "Position generators outside and away from openings according to manufacturer guidance.",
+        "Use functioning carbon monoxide alarms.",
+        "If an alarm sounds or poisoning is suspected, move outdoors and call emergency services."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0019",
+      "title": "Cold weather protection",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for cold weather protection.",
+      "body": [
+        "Seek dry shelter and change wet clothing.",
+        "Layer clothing and protect the head, hands, and feet.",
+        "Watch for confusion, unusual drowsiness, or impaired coordination.",
+        "Seek emergency care for suspected hypothermia."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0020",
+      "title": "Family communications plan",
+      "category": "Radio & Emergency Communications",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for family communications plan.",
+      "body": [
+        "Identify primary and alternate contact methods.",
+        "Choose an out of area contact and household meeting locations.",
+        "Write down contact information and check in procedures.",
+        "Practice the plan and keep paper copies."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0021",
+      "title": "Radio message logging",
+      "category": "Radio & Emergency Communications",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for radio message logging.",
+      "body": [
+        "Record time, station, sender, recipient, and message content.",
+        "Use plain language and confirm critical details.",
+        "Mark unverified reports clearly.",
+        "Protect personal information and follow applicable radio rules."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0022",
+      "title": "Communications power resilience",
+      "category": "Radio & Emergency Communications",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for communications power resilience.",
+      "body": [
+        "Charge devices and battery packs before forecast hazards.",
+        "Identify compatible cables, spare batteries, and low power modes.",
+        "Use radios only within their intended operating and licensing requirements.",
+        "Plan for communication failures and in person check ins."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0023",
+      "title": "Power outage priorities",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for power outage priorities.",
+      "body": [
+        "Identify critical medical equipment and refrigeration needs.",
+        "Use battery powered lighting rather than candles where practical.",
+        "Keep refrigerator and freezer doors closed.",
+        "Follow utility instructions and report downed lines."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0024",
+      "title": "Generator safety overview",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for generator safety overview.",
+      "body": [
+        "Operate portable generators outdoors only.",
+        "Keep exhaust away from doors, windows, and vents.",
+        "Use properly rated cords and follow manufacturer instructions.",
+        "Never backfeed household wiring through a wall outlet."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0025",
+      "title": "Battery and charging plan",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for battery and charging plan.",
+      "body": [
+        "Inventory device power requirements and charging connectors.",
+        "Prioritize communications, medical, and lighting needs.",
+        "Store batteries according to manufacturer guidance.",
+        "Inspect damaged or swollen batteries and stop using them."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0026",
+      "title": "Evacuation go bag",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for evacuation go bag.",
+      "body": [
+        "Pack essential medicines, identification, contact lists, and chargers.",
+        "Include water, suitable food, clothing, and basic hygiene items.",
+        "Account for children, pets, and accessibility needs.",
+        "Review contents and expiration dates regularly."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0027",
+      "title": "Household document backup",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for household document backup.",
+      "body": [
+        "Maintain secure copies of identification, insurance, and key records.",
+        "Keep an offline copy protected from unauthorized access.",
+        "Store a paper contact sheet separately.",
+        "Review documents after major household changes."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0028",
+      "title": "Pet evacuation preparation",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for pet evacuation preparation.",
+      "body": [
+        "Prepare carriers, leashes, food, water, and veterinary records.",
+        "Identify pet friendly evacuation options in advance.",
+        "Keep identification and contact information current.",
+        "Never leave animals in unsafe heat or flood conditions."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0029",
+      "title": "Return home after disaster",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for return home after disaster.",
+      "body": [
+        "Wait for official clearance before returning.",
+        "Avoid standing water, damaged wiring, unstable structures, and suspected gas leaks.",
+        "Photograph damage only when safe.",
+        "Use qualified professionals for hazardous repairs."
+      ],
+      "source_review": "Pending review against current official guidance",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        },
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    }
+  ]
+}
