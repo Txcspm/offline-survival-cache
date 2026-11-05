@@ -1,87 +1,52 @@
-
 "use strict";
-
-const VERSION = "osc-core-v0.3.0";
-const CACHE_PREFIX = "osc-core-";
-const CORE_FILES = [
-  "./",
-  "./index.html",
-  "./manifest.webmanifest",
-  "./icon.svg",
-  "./survival_cache_starter_25.json"
-];
-
+const VERSION = "osc-core-v0.5.0";
+const PREFIX = "osc-core-";
+const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg", "./survival_cache_starter_25.json", "./knowledge/catalog.json", "./knowledge/search-index.json"];
 self.addEventListener("install", event => {
-  event.waitUntil(
-    caches.open(VERSION).then(cache => cache.addAll(CORE_FILES))
-  );
-  self.skipWaiting();
+  event.waitUntil((async () => {
+    const cache = await caches.open(VERSION);
+    await cache.addAll(CORE);
+    const catalog = await (await cache.match("./knowledge/catalog.json")).json();
+    const paths = [...new Set((catalog.articles || []).map(a => a.module_path).filter(p => typeof p === "string" && !p.startsWith("/") && !p.includes("..") && !p.includes(":")))];
+    await cache.addAll(paths.map(p => "./" + p));
+    await self.skipWaiting();
+  })());
 });
-
 self.addEventListener("activate", event => {
   event.waitUntil((async () => {
     const keys = await caches.keys();
-    await Promise.all(
-      keys
-        .filter(key => key.startsWith(CACHE_PREFIX) && key !== VERSION)
-        .map(key => caches.delete(key))
-    );
+    await Promise.all(keys.filter(k => k.startsWith(PREFIX) && k !== VERSION).map(k => caches.delete(k)));
     await self.clients.claim();
   })());
 });
-
 self.addEventListener("fetch", event => {
-  const request = event.request;
-  if (request.method !== "GET") return;
-
-  const url = new URL(request.url);
-  if (url.origin !== self.location.origin) return;
-  if (!url.pathname.startsWith(
-    new URL(self.registration.scope).pathname
-  )) return;
-
+  const req = event.request;
+  if (req.method !== "GET") return;
+  const url = new URL(req.url);
+  if (url.origin !== self.location.origin || !url.pathname.startsWith(new URL(self.registration.scope).pathname)) return;
   event.respondWith((async () => {
     const cache = await caches.open(VERSION);
-
-    if (request.mode === "navigate") {
+    if (req.mode === "navigate") {
       try {
-        const response = await fetch(request);
-        if (response.ok) {
-          await cache.put("./index.html", response.clone());
-        }
+        const response = await fetch(req);
+        if (response.ok) await cache.put("./index.html", response.clone());
         return response;
-      } catch (error) {
-        return (await cache.match("./index.html")) || Response.error();
-      }
+      } catch (error) { return (await cache.match("./index.html")) || Response.error(); }
     }
-
-    const cached = await cache.match(request);
+    const cached = await cache.match(req);
     if (cached) return cached;
-
     try {
-      const response = await fetch(request);
-      if (response.ok && response.type === "basic") {
-        await cache.put(request, response.clone());
-      }
+      const response = await fetch(req);
+      if (response.ok && response.type === "basic") await cache.put(req, response.clone());
       return response;
-    } catch (error) {
-      return Response.error();
-    }
+    } catch (error) { return Response.error(); }
   })());
 });
-
 self.addEventListener("message", event => {
   if (event.data?.type !== "CHECK_OFFLINE_READY") return;
-
   event.waitUntil((async () => {
     const cache = await caches.open(VERSION);
-    const results = await Promise.all(
-      CORE_FILES.map(file => cache.match(file))
-    );
-
-    event.ports[0]?.postMessage({
-      ready: results.every(Boolean),
-      version: VERSION
-    });
+    const present = await Promise.all(CORE.map(f => cache.match(f)));
+    event.ports[0]?.postMessage({ready:present.every(Boolean),version:VERSION});
   })());
 });
