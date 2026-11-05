@@ -20,7 +20,11 @@
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--text);font:15px system-ui,Arial}
-button,input,textarea{font:inherit}
+button,input,textarea,select{font:inherit}
+a{color:var(--accent)}
+:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+summary{cursor:pointer;padding:12px 0}
+li{line-height:1.7;margin:8px 0}
 button{cursor:pointer}
 header{padding:20px;border-bottom:1px solid var(--line)}
 h1{margin:0;font-size:25px}
@@ -90,7 +94,7 @@ pre{white-space:pre-wrap}
 <div class="grid">
 <div class="card"><span class="tag">LIBRARY PLAN</span><h2>3,650</h2><p>Planned articles</p></div>
 <div class="card"><span class="tag">KNOWLEDGE</span><h2>30</h2><p>Categories across eight divisions</p></div>
-<div class="card"><span class="tag">CURRENT BUILD</span><h2 id="articleCount">0</h2><p>Available reference articles</p></div>
+<div class="card"><span class="tag">CURRENT BUILD</span><h2 id="articleCount">0</h2><p>Available drafts and legacy references</p></div>
 </div>
 <h2>Explore the library</h2>
 <div class="grid" id="divisions"></div>
@@ -100,7 +104,7 @@ pre{white-space:pre-wrap}
 <h1>Knowledge Library</h1>
 <p class="muted">Search locally available reference articles.</p>
 <div class="toolbar">
-<input id="search" placeholder="Search articles, categories, or keywords">
+<input aria-label="Search articles" id="search" placeholder="Search articles, categories, or keywords">
 <button id="clearSearch">Clear</button>
 </div>
 <div id="results"></div>
@@ -115,7 +119,7 @@ pre{white-space:pre-wrap}
 <section id="notes" class="section">
 <h1>Field Notes</h1>
 <p class="muted">Notes are stored in this browser on this device. Export a copy for backup.</p>
-<textarea id="fieldNotes" placeholder="Write your notes here"></textarea>
+<textarea aria-label="Field notes" id="fieldNotes" placeholder="Write your notes here"></textarea>
 <div class="toolbar">
 <button id="saveNotes">Save Notes</button>
 <button id="exportNotes">Export Notes</button>
@@ -129,11 +133,15 @@ pre{white-space:pre-wrap}
 <h1>Archive Status</h1>
 <div class="card">
 <h3>Installation state</h3>
-<p id="offlineState">Checking browser status</p>
+<p id="offlineState" role="status">Checking browser status</p>
+<button id="refreshLibrary">Refresh offline library</button>
+<button id="persistStorage">Keep offline data</button>
+<button id="installApp" hidden>Install application</button>
+<p id="storageState" role="status"></p>
 </div>
 <h2>Current capabilities</h2>
 <p>This initial release provides a local article catalog, search, printing, and browser stored field notes.</p>
-<p>The complete offline knowledge archive, verified module installation, and service worker are planned for later releases.</p>
+<p>The available catalog and modules are cached for offline use after installation completes. The 3,650 article goal is a plan; drafts are not approved guidance.</p>
 <p>Do not rely on this initial build as an emergency reference without an internet connection or as a verified source of safety instructions.</p>
 </section>
 </main>
@@ -231,33 +239,7 @@ card.append(button);
 divisionBox.append(card);
 });
 
-function renderArticles(){
-const q=el("search").value.trim().toLowerCase();
-const results=el("results");
-results.replaceChildren();
-const matching=articles.filter(a=>
-[a.title,a.category,a.summary,a.priority,...a.body].join(" ").toLowerCase().includes(q)
-);
-results.append(node("p",matching.length+" available article(s)"));
-matching.forEach(a=>{
-const box=node("article");
-box.append(node("span",a.id+" | "+a.priority,"tag"));
-box.append(node("h3",a.title));
-box.append(node("p",a.category+" | "+a.summary,"muted"));
-const details=document.createElement("details");
-const summary=node("summary","Read article");
-details.append(summary);
-const list=document.createElement("ol");
-a.body.forEach(step=>list.append(node("li",step)));
-details.append(list);
-const print=node("button","Print article");
-print.addEventListener("click",()=>window.print());
-details.append(print);
-box.append(details);
-results.append(box);
-});
-if(!matching.length)results.append(node("p","No matching articles in this initial release."));
-}
+let renderArticles=()=>{};
 el("search").addEventListener("input",renderArticles);
 el("clearSearch").addEventListener("click",()=>{
 el("search").value="";
@@ -281,12 +263,16 @@ emergency.append(card);
 });
 
 const NOTES_KEY="osc_field_notes_v1";
+let savedNotes="";
 try{el("fieldNotes").value=localStorage.getItem(NOTES_KEY)||""}
 catch(e){el("noteMessage").textContent="Local storage is unavailable. Export notes to preserve them."}
 
+savedNotes=el("fieldNotes").value;
+window.addEventListener("beforeunload",e=>{if(el("fieldNotes").value!==savedNotes){e.preventDefault();e.returnValue="";}});
 el("saveNotes").addEventListener("click",()=>{
 try{
 localStorage.setItem(NOTES_KEY,el("fieldNotes").value);
+savedNotes=el("fieldNotes").value;
 el("noteMessage").textContent="Notes saved on this device.";
 }catch(e){el("noteMessage").textContent="Unable to save. Export your notes instead."}
 });
@@ -302,8 +288,9 @@ el("notesFile").addEventListener("change",async e=>{
 const file=e.target.files[0];
 if(!file)return;
 try{
+if(file.size>2100000)throw Error("Backup too large");
 const data=JSON.parse(await file.text());
-if(data.format!=="osc-notes"||typeof data.notes!=="string")throw Error("Invalid notes file");
+if(data.format!=="osc-notes"||typeof data.notes!=="string"||data.version!==1||data.notes.length>2000000)throw Error("Invalid notes file");
 if(!confirm("Replace the current notes with the imported notes?"))return;
 el("fieldNotes").value=data.notes;
 el("noteMessage").textContent="Notes imported. Select Save Notes to store them.";
@@ -385,48 +372,6 @@ async function initializeOfflineApp() {
 }
 
 initializeOfflineApp();
-/* Survival Cache knowledge module loader, build 0.3 */
-async function loadKnowledgeModule() {
-  const modulePath = './survival_cache_starter_25.json';
-  const state = document.getElementById('offlineState');
-  try {
-    const response = await fetch(modulePath);
-    if (!response.ok) throw new Error('Module HTTP ' + response.status);
-    const module = await response.json();
-    if (!Array.isArray(module.articles)) throw new Error('Invalid module');
-    const existing = new Set(articles.map(a => a.id));
-    let added = 0;
-    for (const a of module.articles) {
-      if (!a || typeof a.id !== 'string' || typeof a.title !== 'string' ||
-          typeof a.category !== 'string' || !Array.isArray(a.body)) continue;
-      if (existing.has(a.id)) continue;
-      articles.push(a);
-      existing.add(a.id);
-      added++;
-    }
-    document.getElementById('articleCount').textContent = articles.length;
-    renderArticles();
-    const results = document.getElementById('results');
-    if (results) {
-      const note = document.createElement('p');
-      note.className = 'muted';
-      note.textContent = 'Emergency Foundations loaded. New articles are drafts pending individual source and safety review.';
-      results.prepend(note);
-    }
-    console.info('Knowledge module loaded:', added, 'new articles');
-  } catch (error) {
-    console.warn('Knowledge module unavailable:', error);
-    const results = document.getElementById('results');
-    if (results) {
-      const note = document.createElement('p');
-      note.className = 'muted';
-      note.textContent = 'Knowledge module unavailable. The three built in articles remain accessible.';
-      results.prepend(note);
-    }
-  }
-}
-loadKnowledgeModule();
-
 /* Offline Survival Cache catalog integration, build 0.5.
    Paste immediately before the closing script tag, after existing loaders. */
 (function () {
@@ -457,9 +402,10 @@ loadKnowledgeModule();
   controls.append(category,status,sort);
   panel.append(heading,info,controls);
   toolbar.before(panel);
+  document.getElementById('search').addEventListener('input',()=>{page=0;});
   for (const select of [category,status,sort]) {
     select.style.cssText = 'background:#1b2b30;color:#f1f5f2;border:1px solid #34474a;border-radius:10px;padding:12px;max-width:100%;';
-    select.addEventListener('change', () => renderArticles());
+    select.addEventListener('change', () => {page=0;renderArticles();});
   }
   function fillCategories() {
     const selected = category.value;
@@ -467,7 +413,8 @@ loadKnowledgeModule();
     [...new Set(articles.map(a=>a.category))].sort().forEach(v=>category.add(new Option(v,v)));
     category.value = [...category.options].some(o=>o.value===selected) ? selected : 'all';
   }
-  const originalRender = renderArticles;
+  let page = 0;
+  const pageSize = 40;
   renderArticles = function () {
     const query = document.getElementById('search').value.trim().toLowerCase();
     const catalogMap = new Map((state.catalog?.articles || []).map(a=>[a.id,a]));
@@ -484,12 +431,14 @@ loadKnowledgeModule();
     const count = document.createElement('p');
     count.textContent = list.length + ' matching article(s)';
     target.append(count);
-    for (const a of list) {
+    const pages = Math.max(1, Math.ceil(list.length / pageSize));
+    page = Math.min(page, pages - 1);
+    for (const a of list.slice(page * pageSize, (page + 1) * pageSize)) {
       const metadata = catalogMap.get(a.id);
       const review = metadata?.status || a.status || 'legacy';
-      const box = document.createElement('article'); box.className='article';
+      const box = document.createElement('article'); box.className='article'; box.id=a.id;
       const tag = document.createElement('div'); tag.className='tag';
-      tag.textContent = [a.id,a.priority,review.replace('_',' ').toUpperCase()].join(' | ');
+      tag.textContent = [a.id,a.priority,a.content_stage || 'draft',review.replace('_',' ').toUpperCase()].join(' | ');
       const title = document.createElement('h3'); title.textContent=a.title;
       const desc = document.createElement('p'); desc.className='muted'; desc.textContent=a.category+' | '+(a.summary||'');
       const details = document.createElement('details');
@@ -500,6 +449,8 @@ loadKnowledgeModule();
       const steps = document.createElement('ol');
       for (const step of (a.body||[])) { const li=document.createElement('li');li.textContent=step;steps.append(li); }
       details.append(steps);
+      const reviewNote=document.createElement('p');reviewNote.textContent=a.source_review || 'No completed source review recorded.';details.append(reviewNote);
+      const permalink=document.createElement('a');permalink.href='#'+a.id;permalink.textContent='Link to article';details.append(permalink);
       const sources = document.createElement('section');
       const sh=document.createElement('h4');sh.textContent='Sources and review';sources.append(sh);
       const date=document.createElement('p');date.textContent='Reviewed: '+(metadata?.reviewed_on||a.reviewed_on||'Not yet reviewed');sources.append(date);
@@ -527,6 +478,9 @@ loadKnowledgeModule();
       });
       details.append(print);box.append(tag,title,desc,details);target.append(box);
     }
+    const pager=document.createElement('div');pager.className='toolbar';
+    for(const [label,delta] of [['Previous',-1],['Next',1]]){const b=document.createElement('button');b.textContent=label;b.disabled=page+delta<0 || page+delta>=pages;b.onclick=()=>{page+=delta;renderArticles();};pager.append(b);}
+    pager.append(document.createTextNode('Page '+(page+1)+' of '+pages));target.append(pager);
     if (!list.length) {const p=document.createElement('p');p.textContent='No matching articles. Try another category or status.';target.append(p);}
   };
   async function syncCatalog() {
@@ -536,41 +490,47 @@ loadKnowledgeModule();
       const catalog = await response.json();
       if (!Array.isArray(catalog.articles)) throw new Error('Catalog missing articles');
       state.catalog=catalog;
+      const loaded=[];
       const paths=[...new Set(catalog.articles.map(a=>a.module_path).filter(p=>typeof p==='string' && !p.startsWith('/') && !p.includes('..') && !p.includes(':')) )];
       for (const path of paths) {
         if (state.loadedModules.has(path)) continue;
         try {
           const response=await fetch('./'+path);
           if (!response.ok) throw new Error('Module HTTP '+response.status);
+          const expected=catalog.modules?.[path];
+          if(expected && crypto.subtle){const bytes=await response.clone().arrayBuffer();const digest=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),x=>x.toString(16).padStart(2,'0')).join('');if(digest!==expected)throw Error('Module checksum mismatch');}
           const data=await response.json();
           if (!Array.isArray(data.articles)) throw new Error('Invalid module');
           const known=new Set(articles.map(a=>a.id));
           for (const a of data.articles) {
-            if (a && typeof a.id==='string' && typeof a.title==='string' && typeof a.category==='string' && Array.isArray(a.body) && !known.has(a.id)) { articles.push(a);known.add(a.id); }
+            if (a && typeof a.id==='string' && typeof a.title==='string' && typeof a.category==='string' && Array.isArray(a.body) && !known.has(a.id)) { loaded.push(a);known.add(a.id); }
           }
           state.loadedModules.add(path);
-        } catch (error) { console.warn('Could not load module',path,error); }
+        } catch (error) { throw new Error('Incomplete library: '+path+' '+error.message); }
       }
+      for(const a of loaded) if(!articles.some(old=>old.id===a.id)) articles.push(a);
       const counts=catalog.counts||{};
       info.textContent='Catalog: '+catalog.articles.length+' entries | '+(counts.approved||0)+' approved | '+(counts.draft||0)+' drafts. All review statuses are informational.';
     } catch (error) {
       state.error=error;
-      info.textContent='Catalog unavailable. Locally stored articles remain accessible.';
+      info.textContent='Library loading failed. Only the references shown below are available. Connect and reload to retry.';
       console.warn('Catalog integration:',error);
     }
     fillCategories();
     document.getElementById('articleCount').textContent=articles.length;
     renderArticles();
   }
+  window.addEventListener('hashchange',openArticle);
+  function openArticle(){const id=decodeURIComponent(location.hash.slice(1));const a=articles.find(a=>a.id===id);if(!a)return;category.value='all';status.value='all';document.getElementById('search').value=id;page=0;renderArticles();show('library');document.getElementById(id)?.querySelector('details')?.setAttribute('open','');}
   fillCategories();
   // The existing starter loader can finish independently; this refresh is idempotent.
-  syncCatalog();
+  syncCatalog().then(openArticle);
   document.getElementById('search').addEventListener('input',()=>renderArticles());
 })();
 /* Build 0.6: refresh published knowledge when the device is online.
    Paste immediately before the closing script tag in index.html. */
 async function refreshPublishedKnowledge() {
-  if (!navigator.onLine || !("serviceWorker" in navigator)) return;
+  if (!("serviceWorker" in navigator)) return;
   try {
     const registration = await navigator.serviceWorker.ready;
     const worker = registration.active;
@@ -591,12 +551,20 @@ async function refreshPublishedKnowledge() {
       const status = document.getElementById("offlineState");
       if (status) status.textContent = "Offline knowledge synchronized. Reload to view newly published articles.";
     } else {
-      console.warn("Knowledge refresh incomplete; previous cache retained.");
+      el("offlineState").textContent="Refresh failed. The previous offline library is retained.";
     }
   } catch (error) {
     console.warn("Knowledge refresh unavailable:", error);
   }
 }
+el("refreshLibrary").addEventListener("click",refreshPublishedKnowledge);
+el("persistStorage").addEventListener("click",async()=>{
+  try {const granted=await navigator.storage?.persist?.();el("storageState").textContent=granted ? "Persistent storage granted. Export notes for an additional backup." : "Persistent storage was not granted. Export notes regularly; the browser may remove offline data.";}
+  catch(_){el("storageState").textContent="Storage persistence is unavailable. Export notes for backup.";}
+});
+let installPrompt;
+window.addEventListener("beforeinstallprompt",event=>{event.preventDefault();installPrompt=event;el("installApp").hidden=false;});
+el("installApp").addEventListener("click",async()=>{if(installPrompt){await installPrompt.prompt();installPrompt=null;el("installApp").hidden=true;}});
 window.addEventListener("online", refreshPublishedKnowledge);
 window.addEventListener("load", () => setTimeout(refreshPublishedKnowledge, 1500));
   
