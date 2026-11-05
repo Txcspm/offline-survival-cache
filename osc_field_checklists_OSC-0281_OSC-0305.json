@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-09",
+  "module_title": "Field Planning Checklists Volume 9",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0281",
+      "title": "Printed map set inventory",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for printed map set inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of printed map set inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0282",
+      "title": "Primary evacuation route map",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for primary evacuation route map. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of primary evacuation route map in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0283",
+      "title": "Alternate route documentation",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for alternate route documentation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of alternate route documentation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0284",
+      "title": "Map orientation basics",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for map orientation basics. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of map orientation basics in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0285",
+      "title": "Location coordinate recording",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for location coordinate recording. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of location coordinate recording in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0286",
+      "title": "Road closure note sheet",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for road closure note sheet. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of road closure note sheet in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0287",
+      "title": "Fuel stop planning",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for fuel stop planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of fuel stop planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0288",
+      "title": "Meeting location mapping",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for meeting location mapping. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of meeting location mapping in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0289",
+      "title": "Offline map download check",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for offline map download check. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of offline map download check in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0290",
+      "title": "Map scale interpretation",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for map scale interpretation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of map scale interpretation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0291",
+      "title": "Compass condition check",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for compass condition check. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of compass condition check in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0292",
+      "title": "Route distance estimation",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for route distance estimation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of route distance estimation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0293",
+      "title": "Landmark identification",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for landmark identification. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of landmark identification in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0294",
+      "title": "Trail junction recording",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for trail junction recording. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of trail junction recording in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0295",
+      "title": "Navigation battery backup",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for navigation battery backup. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of navigation battery backup in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0296",
+      "title": "Grid reference notes",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for grid reference notes. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of grid reference notes in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0297",
+      "title": "Vehicle map storage",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for vehicle map storage. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of vehicle map storage in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0298",
+      "title": "Walking route accessibility",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for walking route accessibility. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of walking route accessibility in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0299",
+      "title": "Flood prone route avoidance",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for flood prone route avoidance. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of flood prone route avoidance in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0300",
+      "title": "Bridge closure contingency",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for bridge closure contingency. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of bridge closure contingency in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0301",
+      "title": "Waypoint naming conventions",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for waypoint naming conventions. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of waypoint naming conventions in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0302",
+      "title": "Map update date labeling",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for map update date labeling. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of map update date labeling in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0303",
+      "title": "Destination contact notes",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for destination contact notes. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of destination contact notes in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0304",
+      "title": "Night navigation risk planning",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for night navigation risk planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of night navigation risk planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0305",
+      "title": "Route after action log",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for route after action log. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Use current official closure and evacuation information whenever available. Never bypass barricades or drive through floodwater.",
+        "Define the purpose of route after action log in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    }
+  ]
+}

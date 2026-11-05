@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-07",
+  "module_title": "Field Planning Checklists Volume 7",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0231",
+      "title": "Household power needs list",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for household power needs list. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of household power needs list in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0232",
+      "title": "Battery bank inventory",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for battery bank inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of battery bank inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0233",
+      "title": "Charging priority schedule",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for charging priority schedule. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of charging priority schedule in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0234",
+      "title": "Power cord damage inspection",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for power cord damage inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of power cord damage inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0235",
+      "title": "Generator placement safety",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for generator placement safety. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of generator placement safety in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0236",
+      "title": "Generator fuel inventory",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for generator fuel inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of generator fuel inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0237",
+      "title": "Battery charging location",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for battery charging location. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of battery charging location in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0238",
+      "title": "Power outage lighting plan",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for power outage lighting plan. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of power outage lighting plan in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0239",
+      "title": "Refrigeration power priorities",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for refrigeration power priorities. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of refrigeration power priorities in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0240",
+      "title": "Medical device backup power planning",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for medical device backup power planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of medical device backup power planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0241",
+      "title": "Solar panel visual inspection",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for solar panel visual inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of solar panel visual inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0242",
+      "title": "Portable power station labeling",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for portable power station labeling. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of portable power station labeling in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0243",
+      "title": "Surge protector inventory",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for surge protector inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of surge protector inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0244",
+      "title": "Extension cord trip prevention",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for extension cord trip prevention. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of extension cord trip prevention in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0245",
+      "title": "Power restoration checklist",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for power restoration checklist. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of power restoration checklist in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0246",
+      "title": "Electrical panel labeling",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for electrical panel labeling. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of electrical panel labeling in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0247",
+      "title": "Outdoor electrical hazard recognition",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for outdoor electrical hazard recognition. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of outdoor electrical hazard recognition in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0248",
+      "title": "Battery recycling staging",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for battery recycling staging. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of battery recycling staging in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0249",
+      "title": "Fuel storage location inspection",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for fuel storage location inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of fuel storage location inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0250",
+      "title": "Generator manual retention",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for generator manual retention. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of generator manual retention in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0251",
+      "title": "Backup power test log",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for backup power test log. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of backup power test log in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0252",
+      "title": "Power use reduction plan",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for power use reduction plan. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of power use reduction plan in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0253",
+      "title": "Electrical contractor contact sheet",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for electrical contractor contact sheet. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of electrical contractor contact sheet in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0254",
+      "title": "Device charging queue",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for device charging queue. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of device charging queue in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0255",
+      "title": "Power equipment maintenance log",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for power equipment maintenance log. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid contact with damaged electrical equipment and downed lines. Keep generators outdoors well away from doors, windows, and vents.",
+        "Define the purpose of power equipment maintenance log in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CPSC",
+          "url": "https://www.cpsc.gov/"
+        }
+      ]
+    }
+  ]
+}

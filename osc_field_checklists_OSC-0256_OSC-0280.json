@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-08",
+  "module_title": "Field Planning Checklists Volume 8",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0256",
+      "title": "Emergency handwashing station",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency handwashing station. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of emergency handwashing station in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0257",
+      "title": "Temporary toilet supplies",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for temporary toilet supplies. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of temporary toilet supplies in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0258",
+      "title": "Waste bag inventory",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for waste bag inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of waste bag inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0259",
+      "title": "Waste collection schedule",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for waste collection schedule. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of waste collection schedule in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0260",
+      "title": "Sharps container planning",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for sharps container planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of sharps container planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0261",
+      "title": "Cleaning product labeling",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for cleaning product labeling. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of cleaning product labeling in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0262",
+      "title": "Glove supply inventory",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for glove supply inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of glove supply inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0263",
+      "title": "Disinfection procedure reference",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for disinfection procedure reference. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of disinfection procedure reference in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0264",
+      "title": "Waste separation signage",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for waste separation signage. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of waste separation signage in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0265",
+      "title": "Sewage backup recognition",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for sewage backup recognition. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of sewage backup recognition in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0266",
+      "title": "Flood contaminated material isolation",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for flood contaminated material isolation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of flood contaminated material isolation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0267",
+      "title": "Temporary latrine site restrictions",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for temporary latrine site restrictions. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of temporary latrine site restrictions in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0268",
+      "title": "Sanitation worker handoff",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for sanitation worker handoff. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of sanitation worker handoff in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0269",
+      "title": "Restroom supply tracking",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for restroom supply tracking. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of restroom supply tracking in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0270",
+      "title": "Cleaning water inventory",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for cleaning water inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of cleaning water inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0271",
+      "title": "Personal hygiene kit",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for personal hygiene kit. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of personal hygiene kit in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0272",
+      "title": "Laundry continuity planning",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for laundry continuity planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of laundry continuity planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0273",
+      "title": "Sanitation site ventilation",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for sanitation site ventilation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of sanitation site ventilation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0274",
+      "title": "Waste pickup coordination",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for waste pickup coordination. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of waste pickup coordination in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0275",
+      "title": "Pest prevention around waste",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for pest prevention around waste. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of pest prevention around waste in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0276",
+      "title": "Public handwashing signage",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for public handwashing signage. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of public handwashing signage in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0277",
+      "title": "Cleaning equipment segregation",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for cleaning equipment segregation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of cleaning equipment segregation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0278",
+      "title": "Sanitation incident log",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for sanitation incident log. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of sanitation incident log in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0279",
+      "title": "Return to service inspection",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for return to service inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of return to service inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0280",
+      "title": "Waste disposal contact list",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for waste disposal contact list. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Avoid direct contact with sewage and contaminated waste. Follow local public health instructions and use appropriate protective equipment.",
+        "Define the purpose of waste disposal contact list in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    }
+  ]
+}

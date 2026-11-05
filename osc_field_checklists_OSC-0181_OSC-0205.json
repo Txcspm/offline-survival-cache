@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-05",
+  "module_title": "Field Planning Checklists Volume 5",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0181",
+      "title": "Pantry emergency inventory",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for pantry emergency inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of pantry emergency inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0182",
+      "title": "Refrigerator outage decision log",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for refrigerator outage decision log. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of refrigerator outage decision log in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0183",
+      "title": "Freezer temperature records",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for freezer temperature records. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of freezer temperature records in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0184",
+      "title": "Shelf stable meal planning",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelf stable meal planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of shelf stable meal planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0185",
+      "title": "Food allergy emergency list",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food allergy emergency list. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food allergy emergency list in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0186",
+      "title": "Manual can opener kit",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for manual can opener kit. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of manual can opener kit in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0187",
+      "title": "Safe food handling station",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for safe food handling station. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of safe food handling station in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0188",
+      "title": "Emergency cooking location safety",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency cooking location safety. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of emergency cooking location safety in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0189",
+      "title": "Food rotation schedule",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food rotation schedule. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food rotation schedule in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0190",
+      "title": "Dry food moisture inspection",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for dry food moisture inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of dry food moisture inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0191",
+      "title": "Food package damage screening",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food package damage screening. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food package damage screening in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0192",
+      "title": "Food storage pest checks",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food storage pest checks. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food storage pest checks in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0193",
+      "title": "No cook meal planning",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for no cook meal planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of no cook meal planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0194",
+      "title": "Infant feeding continuity",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for infant feeding continuity. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of infant feeding continuity in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0195",
+      "title": "Pet food continuity",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for pet food continuity. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of pet food continuity in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0196",
+      "title": "Food resupply tracking",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food resupply tracking. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food resupply tracking in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0197",
+      "title": "Food preparation hand hygiene",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food preparation hand hygiene. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food preparation hand hygiene in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0198",
+      "title": "Food distribution roster",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food distribution roster. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food distribution roster in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0199",
+      "title": "Emergency dietary needs",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency dietary needs. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of emergency dietary needs in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0200",
+      "title": "Shared meal supply accounting",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shared meal supply accounting. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of shared meal supply accounting in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0201",
+      "title": "Food donation acceptance checks",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food donation acceptance checks. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food donation acceptance checks in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0202",
+      "title": "Food waste separation",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food waste separation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food waste separation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0203",
+      "title": "Food thermometers inventory",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for food thermometers inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of food thermometers inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0204",
+      "title": "Cold storage power planning",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for cold storage power planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of cold storage power planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0205",
+      "title": "Post outage kitchen reset",
+      "category": "Food & Nutrition",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for post outage kitchen reset. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Follow current food safety guidance and account for allergies, infants, and medically necessary diets. When food safety is uncertain, discard suspect items.",
+        "Define the purpose of post outage kitchen reset in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "USDA Food Safety",
+          "url": "https://www.foodsafety.gov/"
+        }
+      ]
+    }
+  ]
+}

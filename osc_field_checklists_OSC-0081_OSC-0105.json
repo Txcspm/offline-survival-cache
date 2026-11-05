@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-01",
+  "module_title": "Field Planning Checklists Volume 1",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0081",
+      "title": "Immediate danger recognition",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for immediate danger recognition. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of immediate danger recognition in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0082",
+      "title": "Safe assembly points",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for safe assembly points. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of safe assembly points in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0083",
+      "title": "Emergency priorities",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency priorities. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of emergency priorities in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0084",
+      "title": "Family accountability",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for family accountability. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of family accountability in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0085",
+      "title": "Shelter versus evacuation",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelter versus evacuation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of shelter versus evacuation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0086",
+      "title": "Situational awareness notes",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for situational awareness notes. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of situational awareness notes in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0087",
+      "title": "Emergency decision logs",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency decision logs. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of emergency decision logs in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0088",
+      "title": "Hazard perimeter marking",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for hazard perimeter marking. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of hazard perimeter marking in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0089",
+      "title": "Buddy system procedures",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for buddy system procedures. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of buddy system procedures in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0090",
+      "title": "Emergency contact hierarchy",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency contact hierarchy. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of emergency contact hierarchy in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0091",
+      "title": "Loss of communications",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for loss of communications. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of loss of communications in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0092",
+      "title": "Critical supply triage",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for critical supply triage. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of critical supply triage in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0093",
+      "title": "Safe room selection",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for safe room selection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of safe room selection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0094",
+      "title": "Hazard information verification",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for hazard information verification. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of hazard information verification in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0095",
+      "title": "Aftershock precautions",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for aftershock precautions. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of aftershock precautions in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0096",
+      "title": "Severe weather warnings",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for severe weather warnings. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of severe weather warnings in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0097",
+      "title": "Smoke and fire escape",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for smoke and fire escape. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of smoke and fire escape in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0098",
+      "title": "Flood evacuation triggers",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for flood evacuation triggers. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of flood evacuation triggers in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0099",
+      "title": "Extreme heat response planning",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for extreme heat response planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of extreme heat response planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0100",
+      "title": "Cold exposure prevention planning",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for cold exposure prevention planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of cold exposure prevention planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0101",
+      "title": "Unexpected overnight isolation",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for unexpected overnight isolation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of unexpected overnight isolation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0102",
+      "title": "Public alert interpretation",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for public alert interpretation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of public alert interpretation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0103",
+      "title": "Neighborhood check in",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for neighborhood check in. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of neighborhood check in in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0104",
+      "title": "Emergency handoff notes",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency handoff notes. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of emergency handoff notes in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0105",
+      "title": "Return home safety screening",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for return home safety screening. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Begin by identifying immediate threats and following current official emergency instructions. Do not enter a hazardous area to complete paperwork or retrieve equipment.",
+        "Define the purpose of return home safety screening in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    }
+  ]
+}

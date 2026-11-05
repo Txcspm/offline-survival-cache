@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-02",
+  "module_title": "Field Planning Checklists Volume 2",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0106",
+      "title": "Household contact directory",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for household contact directory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of household contact directory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0107",
+      "title": "Emergency document copies",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency document copies. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of emergency document copies in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0108",
+      "title": "Medication information card",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for medication information card. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of medication information card in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0109",
+      "title": "Pet evacuation supplies",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for pet evacuation supplies. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of pet evacuation supplies in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0110",
+      "title": "Child reunification plan",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for child reunification plan. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of child reunification plan in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0111",
+      "title": "Accessible evacuation planning",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for accessible evacuation planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of accessible evacuation planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0112",
+      "title": "Household utility map",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for household utility map. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of household utility map in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0113",
+      "title": "Backup key inventory",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for backup key inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of backup key inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0114",
+      "title": "Home emergency binder",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for home emergency binder. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of home emergency binder in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0115",
+      "title": "Family meeting points",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for family meeting points. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of family meeting points in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0116",
+      "title": "Out of area contact",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for out of area contact. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of out of area contact in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0117",
+      "title": "Caregiver continuity notes",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for caregiver continuity notes. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of caregiver continuity notes in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0118",
+      "title": "Home inventory photographs",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for home inventory photographs. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of home inventory photographs in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0119",
+      "title": "Emergency cash planning",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency cash planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of emergency cash planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0120",
+      "title": "Essential device charging",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for essential device charging. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of essential device charging in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0121",
+      "title": "Family communications drills",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for family communications drills. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of family communications drills in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0122",
+      "title": "Emergency bag inspection",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency bag inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of emergency bag inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0123",
+      "title": "Household supply rotation",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for household supply rotation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of household supply rotation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0124",
+      "title": "Temporary lodging checklist",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for temporary lodging checklist. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of temporary lodging checklist in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0125",
+      "title": "Household sanitation kit",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for household sanitation kit. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of household sanitation kit in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0126",
+      "title": "Home fire escape map",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for home fire escape map. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of home fire escape map in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0127",
+      "title": "Neighbor assistance agreements",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for neighbor assistance agreements. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of neighbor assistance agreements in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0128",
+      "title": "Emergency vehicle loading",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency vehicle loading. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of emergency vehicle loading in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0129",
+      "title": "Important account recovery",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for important account recovery. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of important account recovery in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0130",
+      "title": "Post incident household records",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for post incident household records. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Keep personal information private and accessible to authorized household members. Use paper copies where an outage could make electronic records unavailable.",
+        "Define the purpose of post incident household records in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    }
+  ]
+}

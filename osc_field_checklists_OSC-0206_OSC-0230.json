@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-06",
+  "module_title": "Field Planning Checklists Volume 6",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0206",
+      "title": "Shelter location evaluation",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelter location evaluation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of shelter location evaluation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0207",
+      "title": "Window and door inspection",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for window and door inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of window and door inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0208",
+      "title": "Safe sleeping area layout",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for safe sleeping area layout. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of safe sleeping area layout in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0209",
+      "title": "Ventilation planning",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for ventilation planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of ventilation planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0210",
+      "title": "Heat exposure monitoring",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for heat exposure monitoring. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of heat exposure monitoring in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0211",
+      "title": "Cold weather clothing layers",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for cold weather clothing layers. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of cold weather clothing layers in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0212",
+      "title": "Indoor air quality warning signs",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for indoor air quality warning signs. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of indoor air quality warning signs in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0213",
+      "title": "Carbon monoxide alarm checks",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for carbon monoxide alarm checks. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of carbon monoxide alarm checks in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0214",
+      "title": "Smoke alarm checks",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for smoke alarm checks. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of smoke alarm checks in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0215",
+      "title": "Temporary shelter sanitation",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for temporary shelter sanitation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of temporary shelter sanitation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0216",
+      "title": "Weatherproofing supplies inventory",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for weatherproofing supplies inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of weatherproofing supplies inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0217",
+      "title": "Shelter occupancy list",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelter occupancy list. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of shelter occupancy list in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0218",
+      "title": "Accessible shelter layout",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for accessible shelter layout. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of accessible shelter layout in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0219",
+      "title": "Shelter fire exit planning",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelter fire exit planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of shelter fire exit planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0220",
+      "title": "Roof leak documentation",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for roof leak documentation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of roof leak documentation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0221",
+      "title": "Moisture and mold warning signs",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for moisture and mold warning signs. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of moisture and mold warning signs in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0222",
+      "title": "Emergency lighting placement",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency lighting placement. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of emergency lighting placement in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0223",
+      "title": "Trip hazard inspection",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for trip hazard inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of trip hazard inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0224",
+      "title": "Pest exposure precautions",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for pest exposure precautions. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of pest exposure precautions in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0225",
+      "title": "Shelter cleaning roster",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelter cleaning roster. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of shelter cleaning roster in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0226",
+      "title": "Temporary bedding hygiene",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for temporary bedding hygiene. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of temporary bedding hygiene in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0227",
+      "title": "Outdoor shelter site selection",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for outdoor shelter site selection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of outdoor shelter site selection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0228",
+      "title": "Storm shelter readiness",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for storm shelter readiness. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of storm shelter readiness in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0229",
+      "title": "Shelter supply staging",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelter supply staging. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of shelter supply staging in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0230",
+      "title": "Shelter closure checklist",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shelter closure checklist. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Check for immediate hazards before using a shelter. Never use fuel burning equipment inside living spaces or near openings where exhaust can enter.",
+        "Define the purpose of shelter closure checklist in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "Ready.gov",
+          "url": "https://www.ready.gov/"
+        }
+      ]
+    }
+  ]
+}

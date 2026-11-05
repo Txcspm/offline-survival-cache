@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-10",
+  "module_title": "Field Planning Checklists Volume 10",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0306",
+      "title": "Volunteer role assignments",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for volunteer role assignments. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of volunteer role assignments in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0307",
+      "title": "Incident contact list",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for incident contact list. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of incident contact list in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0308",
+      "title": "Situation report template",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for situation report template. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of situation report template in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0309",
+      "title": "Resource request tracking",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for resource request tracking. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of resource request tracking in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0310",
+      "title": "Donation intake records",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for donation intake records. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of donation intake records in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0311",
+      "title": "Volunteer sign in",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for volunteer sign in. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of volunteer sign in in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0312",
+      "title": "Volunteer safety briefing",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for volunteer safety briefing. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of volunteer safety briefing in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0313",
+      "title": "Shift change checklist",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for shift change checklist. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of shift change checklist in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0314",
+      "title": "Community notice board",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for community notice board. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of community notice board in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0315",
+      "title": "Neighborhood needs survey",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for neighborhood needs survey. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of neighborhood needs survey in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0316",
+      "title": "Accessible public information",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for accessible public information. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of accessible public information in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0317",
+      "title": "Supply distribution queue",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for supply distribution queue. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of supply distribution queue in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0318",
+      "title": "Resource staging map",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for resource staging map. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of resource staging map in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0319",
+      "title": "Public information verification",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for public information verification. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of public information verification in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0320",
+      "title": "Community check in schedule",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for community check in schedule. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of community check in schedule in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0321",
+      "title": "Incident chronology",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for incident chronology. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of incident chronology in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0322",
+      "title": "Meeting notes template",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for meeting notes template. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of meeting notes template in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0323",
+      "title": "Mutual aid contact list",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for mutual aid contact list. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of mutual aid contact list in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0324",
+      "title": "Unmet needs register",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for unmet needs register. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of unmet needs register in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0325",
+      "title": "Equipment checkout log",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for equipment checkout log. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of equipment checkout log in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0326",
+      "title": "Weather monitoring assignment",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for weather monitoring assignment. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of weather monitoring assignment in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0327",
+      "title": "Incident demobilization checklist",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for incident demobilization checklist. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of incident demobilization checklist in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0328",
+      "title": "After action observation",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for after action observation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of after action observation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0329",
+      "title": "Volunteer rest planning",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for volunteer rest planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of volunteer rest planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0330",
+      "title": "Community recovery priorities",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for community recovery priorities. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Coordinate with local incident leadership and emergency services. Do not self deploy into restricted or dangerous areas.",
+        "Define the purpose of community recovery priorities in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FEMA",
+          "url": "https://www.fema.gov/"
+        }
+      ]
+    }
+  ]
+}

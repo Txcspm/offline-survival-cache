@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-04",
+  "module_title": "Field Planning Checklists Volume 4",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0156",
+      "title": "Stored water inspection",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for stored water inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of stored water inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0157",
+      "title": "Water container labeling",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water container labeling. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water container labeling in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0158",
+      "title": "Clean water dispensing",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for clean water dispensing. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of clean water dispensing in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0159",
+      "title": "Emergency water ration planning",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency water ration planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of emergency water ration planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0160",
+      "title": "Water source documentation",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water source documentation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water source documentation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0161",
+      "title": "Boil water advisory response",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for boil water advisory response. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of boil water advisory response in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0162",
+      "title": "Do not drink notice response",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for do not drink notice response. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of do not drink notice response in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0163",
+      "title": "Water container cleaning",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water container cleaning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water container cleaning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0164",
+      "title": "Water transport safety",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water transport safety. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water transport safety in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0165",
+      "title": "Water storage location",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water storage location. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water storage location in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0166",
+      "title": "Water conservation during outages",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water conservation during outages. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water conservation during outages in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0167",
+      "title": "Water treatment equipment inventory",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water treatment equipment inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water treatment equipment inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0168",
+      "title": "Water filter maintenance records",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water filter maintenance records. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water filter maintenance records in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0169",
+      "title": "Water supply contamination warning signs",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water supply contamination warning signs. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water supply contamination warning signs in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0170",
+      "title": "Household water access plan",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for household water access plan. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of household water access plan in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0171",
+      "title": "Water container damage inspection",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water container damage inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water container damage inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0172",
+      "title": "Water treatment instructions retention",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water treatment instructions retention. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water treatment instructions retention in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0173",
+      "title": "Safe separation of water supplies",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for safe separation of water supplies. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of safe separation of water supplies in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0174",
+      "title": "Water distribution station layout",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water distribution station layout. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water distribution station layout in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0175",
+      "title": "Water inventory reconciliation",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water inventory reconciliation. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water inventory reconciliation in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0176",
+      "title": "Water for hygiene planning",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water for hygiene planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water for hygiene planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0177",
+      "title": "Water for pets planning",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water for pets planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water for pets planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0178",
+      "title": "Water resupply decision points",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water resupply decision points. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water resupply decision points in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0179",
+      "title": "Water storage temperature protection",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for water storage temperature protection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of water storage temperature protection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0180",
+      "title": "Return to normal water use",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for return to normal water use. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Treat uncertain water quality as a health risk. Follow current utility and public health notices; boiling does not remove chemical contamination.",
+        "Define the purpose of return to normal water use in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "CDC",
+          "url": "https://www.cdc.gov/"
+        }
+      ]
+    }
+  ]
+}

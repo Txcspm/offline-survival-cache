@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-planning-03",
+  "module_title": "Field Planning Checklists Volume 3",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0131",
+      "title": "Radio battery inventory",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio battery inventory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio battery inventory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0132",
+      "title": "Simplex channel plan",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for simplex channel plan. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of simplex channel plan in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0133",
+      "title": "Repeater information sheet",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for repeater information sheet. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of repeater information sheet in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0134",
+      "title": "Radio check procedure",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio check procedure. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio check procedure in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0135",
+      "title": "Message logging form",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for message logging form. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of message logging form in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0136",
+      "title": "Plain language radio traffic",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for plain language radio traffic. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of plain language radio traffic in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0137",
+      "title": "Call sign reference",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for call sign reference. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of call sign reference in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0138",
+      "title": "Antenna visual inspection",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for antenna visual inspection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of antenna visual inspection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0139",
+      "title": "Handheld radio weather protection",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for handheld radio weather protection. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of handheld radio weather protection in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0140",
+      "title": "Spare charging cable kit",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for spare charging cable kit. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of spare charging cable kit in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0141",
+      "title": "NOAA weather radio monitoring",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for noaa weather radio monitoring. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of noaa weather radio monitoring in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0142",
+      "title": "Communications fallback sequence",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for communications fallback sequence. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of communications fallback sequence in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0143",
+      "title": "Radio operating position",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio operating position. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio operating position in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0144",
+      "title": "Emergency message prioritization",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for emergency message prioritization. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of emergency message prioritization in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0145",
+      "title": "Radio equipment labeling",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio equipment labeling. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio equipment labeling in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0146",
+      "title": "Printed frequency directory",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for printed frequency directory. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of printed frequency directory in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0147",
+      "title": "Radio log time conventions",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio log time conventions. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio log time conventions in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0148",
+      "title": "Radio net check in",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio net check in. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio net check in in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0149",
+      "title": "Power budget for handhelds",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for power budget for handhelds. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of power budget for handhelds in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0150",
+      "title": "External speaker microphone care",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for external speaker microphone care. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of external speaker microphone care in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0151",
+      "title": "Radio programming backup",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio programming backup. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio programming backup in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0152",
+      "title": "Communications shift handoff",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for communications shift handoff. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of communications shift handoff in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0153",
+      "title": "Field signal report",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for field signal report. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of field signal report in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0154",
+      "title": "Radio interoperability planning",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for radio interoperability planning. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of radio interoperability planning in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    },
+    {
+      "id": "OSC-0155",
+      "title": "Post deployment equipment check",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Field planning and documentation checklist for post deployment equipment check. This is a preliminary administrative guide, not a verified technical procedure.",
+      "body": [
+        "Operate only within applicable licensing rules and local emergency communications procedures. Never transmit an unverified emergency report as fact.",
+        "Define the purpose of post deployment equipment check in one sentence, including who will use the record or procedure.",
+        "Identify the responsible person and a backup; record their contact method if appropriate.",
+        "Inspect the relevant equipment, supplies, or information for missing, damaged, expired, or outdated items.",
+        "Record the current condition, location, date, and any immediate limitations using a paper or local offline record.",
+        "Flag urgent safety concerns and refer them to qualified personnel or current official guidance before proceeding.",
+        "Prepare an accessible printed copy or labeled kit for use during a power or communications outage.",
+        "Agree on a trigger for using this procedure and a fallback if the preferred option is unavailable.",
+        "Test the procedure in a safe practice setting; record failures and correct them before an emergency.",
+        "Set a review interval and update the record whenever equipment, contacts, or circumstances change.",
+        "At handoff, tell the next person what was checked, what remains unresolved, and where the current record is stored."
+      ],
+      "source_review": "Pending. General agency homepage is a research starting point, not a verified citation supporting each step.",
+      "sources": [
+        {
+          "organization": "FCC",
+          "url": "https://www.fcc.gov/"
+        }
+      ]
+    }
+  ]
+}
