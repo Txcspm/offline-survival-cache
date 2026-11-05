@@ -427,6 +427,147 @@ async function loadKnowledgeModule() {
 }
 loadKnowledgeModule();
 
+/* Offline Survival Cache catalog integration, build 0.5.
+   Paste immediately before the closing script tag, after existing loaders. */
+(function () {
+  'use strict';
+  const catalogPath = './knowledge/catalog.json';
+  const state = { catalog: null, loadedModules: new Set(), error: null };
+  const library = document.getElementById('library');
+  const toolbar = library.querySelector('.toolbar');
+  const panel = document.createElement('div');
+  panel.className = 'card';
+  panel.style.marginBottom = '16px';
+  const heading = document.createElement('h3');
+  heading.textContent = 'Published catalog';
+  const info = document.createElement('p');
+  info.textContent = 'Loading catalog information…';
+  const controls = document.createElement('div');
+  controls.className = 'toolbar';
+  const category = document.createElement('select');
+  category.setAttribute('aria-label', 'Filter by category');
+  const status = document.createElement('select');
+  status.setAttribute('aria-label', 'Filter by review status');
+  const sort = document.createElement('select');
+  sort.setAttribute('aria-label', 'Sort articles');
+  for (const [value, label] of [['all','All review statuses'],['draft','Draft'],['in_review','In review'],['approved','Approved'],['retired','Retired'],['legacy','Original references']]) {
+    const opt = new Option(label,value); status.add(opt);
+  }
+  for (const [value,label] of [['title','Title'],['priority','Priority'],['category','Category']]) sort.add(new Option(label,value));
+  controls.append(category,status,sort);
+  panel.append(heading,info,controls);
+  toolbar.before(panel);
+  for (const select of [category,status,sort]) {
+    select.style.cssText = 'background:#1b2b30;color:#f1f5f2;border:1px solid #34474a;border-radius:10px;padding:12px;max-width:100%;';
+    select.addEventListener('change', () => renderArticles());
+  }
+  function fillCategories() {
+    const selected = category.value;
+    category.replaceChildren(new Option('All categories','all'));
+    [...new Set(articles.map(a=>a.category))].sort().forEach(v=>category.add(new Option(v,v)));
+    category.value = [...category.options].some(o=>o.value===selected) ? selected : 'all';
+  }
+  const originalRender = renderArticles;
+  renderArticles = function () {
+    const query = document.getElementById('search').value.trim().toLowerCase();
+    const catalogMap = new Map((state.catalog?.articles || []).map(a=>[a.id,a]));
+    let list = articles.filter(a=>{
+      const metadata = catalogMap.get(a.id);
+      const review = metadata?.status || a.status || 'legacy';
+      const sourceText = (a.sources || []).map(s=>[s.organization,s.title].join(' ')).join(' ');
+      const match = [a.id,a.title,a.category,a.summary,a.priority,...(a.body||[]),sourceText].join(' ').toLowerCase().includes(query);
+      return match && (category.value==='all'||a.category===category.value) && (status.value==='all'||review===status.value);
+    });
+    list.sort((a,b)=>sort.value==='priority' ? (a.priority||'P9').localeCompare(b.priority||'P9') || a.title.localeCompare(b.title) : sort.value==='category' ? a.category.localeCompare(b.category)||a.title.localeCompare(b.title) : a.title.localeCompare(b.title));
+    const target = document.getElementById('results');
+    target.replaceChildren();
+    const count = document.createElement('p');
+    count.textContent = list.length + ' matching article(s)';
+    target.append(count);
+    for (const a of list) {
+      const metadata = catalogMap.get(a.id);
+      const review = metadata?.status || a.status || 'legacy';
+      const box = document.createElement('article'); box.className='article';
+      const tag = document.createElement('div'); tag.className='tag';
+      tag.textContent = [a.id,a.priority,review.replace('_',' ').toUpperCase()].join(' | ');
+      const title = document.createElement('h3'); title.textContent=a.title;
+      const desc = document.createElement('p'); desc.className='muted'; desc.textContent=a.category+' | '+(a.summary||'');
+      const details = document.createElement('details');
+      const summary = document.createElement('summary'); summary.textContent='Read field guide'; details.append(summary);
+      const warning = document.createElement('p'); warning.className='muted';
+      warning.textContent=review==='approved' ? 'Approved in the catalog. Verify review date and applicable local guidance.' : 'Unverified reference material. Do not use as the sole basis for safety critical decisions.';
+      details.append(warning);
+      const steps = document.createElement('ol');
+      for (const step of (a.body||[])) { const li=document.createElement('li');li.textContent=step;steps.append(li); }
+      details.append(steps);
+      const sources = document.createElement('section');
+      const sh=document.createElement('h4');sh.textContent='Sources and review';sources.append(sh);
+      const date=document.createElement('p');date.textContent='Reviewed: '+(metadata?.reviewed_on||a.reviewed_on||'Not yet reviewed');sources.append(date);
+      for (const s of (a.sources||[])) {
+        const p=document.createElement('p');
+        if (typeof s.url==='string' && /^https:\/\//.test(s.url)) {
+          const link=document.createElement('a');link.href=s.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent=s.title||s.organization||s.url;p.append(link);
+        } else p.textContent=s.title||s.organization||'Unspecified source';
+        sources.append(p);
+      }
+      if (!(a.sources||[]).length) { const p=document.createElement('p');p.textContent='No article specific references recorded.';sources.append(p); }
+      details.append(sources);
+      const print=document.createElement('button');print.textContent='Print this guide';
+      print.addEventListener('click',()=>{
+        const w=window.open('','_blank');
+        if (!w) { alert('Allow popups to print an individual guide.');return; }
+        const doc=w.document;doc.open();doc.write('<!doctype html><html><head><meta charset="utf-8"><title>Field Guide</title><style>body{font:12pt Georgia,serif;max-width:750px;margin:30px auto;padding:16px;line-height:1.5}li{margin:10px 0}small{color:#555}</style></head><body></body></html>');doc.close();
+        const h=doc.createElement('h1');h.textContent=a.title;doc.body.append(h);
+        const m=doc.createElement('small');m.textContent=a.id+' | '+a.category+' | '+review.toUpperCase();doc.body.append(m);
+        const warn=doc.createElement('p');warn.textContent=warning.textContent;doc.body.append(warn);
+        const ol=doc.createElement('ol');for(const line of (a.body||[])){const li=doc.createElement('li');li.textContent=line;ol.append(li);}doc.body.append(ol);
+        const foot=doc.createElement('p');foot.textContent='Review date: '+(metadata?.reviewed_on||a.reviewed_on||'Not reviewed');doc.body.append(foot);
+        for(const s of (a.sources||[])){const p=doc.createElement('p');p.textContent=[s.organization||s.title||'Source',s.url||''].join(' ');doc.body.append(p);}
+        w.focus();w.print();
+      });
+      details.append(print);box.append(tag,title,desc,details);target.append(box);
+    }
+    if (!list.length) {const p=document.createElement('p');p.textContent='No matching articles. Try another category or status.';target.append(p);}
+  };
+  async function syncCatalog() {
+    try {
+      const response = await fetch(catalogPath);
+      if (!response.ok) throw new Error('Catalog HTTP '+response.status);
+      const catalog = await response.json();
+      if (!Array.isArray(catalog.articles)) throw new Error('Catalog missing articles');
+      state.catalog=catalog;
+      const paths=[...new Set(catalog.articles.map(a=>a.module_path).filter(p=>typeof p==='string' && !p.startsWith('/') && !p.includes('..') && !p.includes(':')) )];
+      for (const path of paths) {
+        if (state.loadedModules.has(path)) continue;
+        try {
+          const response=await fetch('./'+path);
+          if (!response.ok) throw new Error('Module HTTP '+response.status);
+          const data=await response.json();
+          if (!Array.isArray(data.articles)) throw new Error('Invalid module');
+          const known=new Set(articles.map(a=>a.id));
+          for (const a of data.articles) {
+            if (a && typeof a.id==='string' && typeof a.title==='string' && typeof a.category==='string' && Array.isArray(a.body) && !known.has(a.id)) { articles.push(a);known.add(a.id); }
+          }
+          state.loadedModules.add(path);
+        } catch (error) { console.warn('Could not load module',path,error); }
+      }
+      const counts=catalog.counts||{};
+      info.textContent='Catalog: '+catalog.articles.length+' entries | '+(counts.approved||0)+' approved | '+(counts.draft||0)+' drafts. All review statuses are informational.';
+    } catch (error) {
+      state.error=error;
+      info.textContent='Catalog unavailable. Locally stored articles remain accessible.';
+      console.warn('Catalog integration:',error);
+    }
+    fillCategories();
+    document.getElementById('articleCount').textContent=articles.length;
+    renderArticles();
+  }
+  fillCategories();
+  // The existing starter loader can finish independently; this refresh is idempotent.
+  syncCatalog();
+  document.getElementById('search').addEventListener('input',()=>renderArticles());
+})();
+
 </script>
 </body>
 </html>
