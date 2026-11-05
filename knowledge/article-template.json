@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "module_id": "replace-with-unique-module-id",
+  "module_title": "Replace with module title",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0100",
+      "title": "Replace with article title",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Replace with a useful short summary.",
+      "body": [
+        "Explain the conditions under which the procedure applies.",
+        "List required materials and safety precautions.",
+        "Provide clear, numbered steps and limitations."
+      ],
+      "sources": [
+        {
+          "organization": "Agency or publisher name",
+          "url": "https://www.ready.gov/"
+        }
+      ],
+      "source_review": "Pending article specific verification"
+    }
+  ]
+}
