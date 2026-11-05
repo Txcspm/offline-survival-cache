@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-inventory-test-0030",
+  "module_title": "Household Emergency Inventory Test",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0030",
+      "title": "Household emergency supply inventory",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "A basic inventory procedure for recording and reviewing household emergency supplies.",
+      "body": [
+        "Choose a single inventory location, such as a printed sheet or a locally stored document.",
+        "Record each supply item, quantity, storage location, and expiration date when applicable.",
+        "Identify supplies that are missing, damaged, or nearing expiration.",
+        "Review the inventory on a recurring schedule and update it after supplies are used.",
+        "Keep a printed copy accessible when electricity or internet access is unavailable."
+      ],
+      "source_review": "Pending individual source and safety review. This is a publishing workflow test article.",
+      "sources": []
+    }
+  ]
+}
