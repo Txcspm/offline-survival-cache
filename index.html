@@ -1,0 +1,317 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101b20">
+<title>Offline Survival Cache</title>
+<style>
+:root{
+  color-scheme:dark;
+  --bg:#101b20;--panel:#1b2b30;--line:#34474a;
+  --text:#f1f5f2;--muted:#b4c5c5;--accent:#a9d78a;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px system-ui,Arial}
+button,input,textarea{font:inherit}
+button{cursor:pointer}
+header{padding:20px;border-bottom:1px solid var(--line)}
+h1{margin:0;font-size:25px}
+h2{font-size:20px}
+p{line-height:1.6}
+small,.muted{color:var(--muted)}
+.shell{display:grid;grid-template-columns:230px 1fr;min-height:100vh}
+aside{background:#152329;border-right:1px solid var(--line);padding:20px}
+main{padding:24px;max-width:1250px;width:100%;margin:auto}
+nav button{display:block;width:100%;margin:7px 0;text-align:left}
+button,.card,input,textarea{
+  border:1px solid var(--line);border-radius:10px;
+  background:var(--panel);color:var(--text)
+}
+button{padding:12px}
+button:hover,.active{border-color:var(--accent)}
+input,textarea{padding:12px;width:100%}
+textarea{min-height:180px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.card{padding:18px}
+.card h3{margin:0 0 8px}
+.card p{margin:0;color:var(--muted)}
+.tag{color:var(--accent);font-size:12px;font-weight:700}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}
+.toolbar input{flex:1;min-width:180px}
+.section{display:none}
+.section.active{display:block}
+.article{margin:12px 0;padding:18px;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.article button{margin-top:10px}
+.status{padding:12px;border:1px solid var(--line);border-radius:10px;margin-top:20px}
+pre{white-space:pre-wrap}
+@media(max-width:700px){
+ .shell{display:block}
+ aside{border-right:0;border-bottom:1px solid var(--line);padding:12px}
+ nav{display:flex;overflow-x:auto;gap:8px}
+ nav button{white-space:nowrap;width:auto;flex-shrink:0}
+ main{padding:16px}
+ h1{font-size:22px}
+}
+@media print{
+ aside,.toolbar,button{display:none!important}
+ body{background:white;color:black}
+ .shell{display:block}
+ .article,.card{background:white;color:black;border:1px solid #777}
+}
+</style>
+</head>
+<body>
+<div class="shell">
+<aside>
+<h2>Survival Cache</h2>
+<small>Civilization Continuity Library</small>
+<nav id="navigation">
+<button data-page="dashboard">Dashboard</button>
+<button data-page="library">Knowledge Library</button>
+<button data-page="emergency">Emergency Reference</button>
+<button data-page="notes">Field Notes</button>
+<button data-page="about">Archive Status</button>
+</nav>
+<div class="status" id="connection">Checking connection</div>
+</aside>
+
+<main>
+<section id="dashboard" class="section active">
+<h1>Offline Survival Cache</h1>
+<p class="muted">Survival, emergency response, engineering, and civilization continuity knowledge.</p>
+<div class="grid">
+<div class="card"><span class="tag">LIBRARY PLAN</span><h2>3,650</h2><p>Planned articles</p></div>
+<div class="card"><span class="tag">KNOWLEDGE</span><h2>30</h2><p>Categories across eight divisions</p></div>
+<div class="card"><span class="tag">CURRENT BUILD</span><h2 id="articleCount">0</h2><p>Available reference articles</p></div>
+</div>
+<h2>Explore the library</h2>
+<div class="grid" id="divisions"></div>
+</section>
+
+<section id="library" class="section">
+<h1>Knowledge Library</h1>
+<p class="muted">Search locally available reference articles.</p>
+<div class="toolbar">
+<input id="search" placeholder="Search articles, categories, or keywords">
+<button id="clearSearch">Clear</button>
+</div>
+<div id="results"></div>
+</section>
+
+<section id="emergency" class="section">
+<h1>Emergency Reference</h1>
+<p>Choose a topic to open the available quick reference material.</p>
+<div class="grid" id="emergencyCards"></div>
+</section>
+
+<section id="notes" class="section">
+<h1>Field Notes</h1>
+<p class="muted">Notes are stored in this browser on this device. Export a copy for backup.</p>
+<textarea id="fieldNotes" placeholder="Write your notes here"></textarea>
+<div class="toolbar">
+<button id="saveNotes">Save Notes</button>
+<button id="exportNotes">Export Notes</button>
+<button id="importNotes">Import Notes</button>
+<input type="file" id="notesFile" accept=".json,application/json" hidden>
+</div>
+<p id="noteMessage" role="status"></p>
+</section>
+
+<section id="about" class="section">
+<h1>Archive Status</h1>
+<div class="card">
+<h3>Installation state</h3>
+<p id="offlineState">Checking browser status</p>
+</div>
+<h2>Current capabilities</h2>
+<p>This initial release provides a local article catalog, search, printing, and browser stored field notes.</p>
+<p>The complete offline knowledge archive, verified module installation, and service worker are planned for later releases.</p>
+<p>Do not rely on this initial build as an emergency reference without an internet connection or as a verified source of safety instructions.</p>
+</section>
+</main>
+</div>
+
+<script>
+"use strict";
+
+const divisions=[
+["Survival & Emergency Medicine",["Emergency Survival & Decision Making","Medical Care & First Aid","Shelter & Environmental Protection","Water Collection & Treatment"]],
+["Food, Agriculture & Natural Resources",["Food & Nutrition","Agriculture & Gardening","Animal Husbandry & Fisheries","Wilderness Skills & Natural Resources"]],
+["Infrastructure & Engineering",["Power Generation & Electricity","Construction & Structural Repair","Mechanical Systems & Fabrication","Water, Waste & Public Sanitation","Fire, Heating & Cooking Systems"]],
+["Communications, Computing & Knowledge",["Radio & Emergency Communications","Computing & Offline Information Systems","Mathematics, Science & Measurement","Knowledge Preservation & Education"]],
+["Movement, Navigation & Security",["Navigation & Cartography","Transportation & Vehicle Maintenance","Security & Personal Safety"]],
+["Disaster Response & Community Operations",["Natural Disasters & Environmental Hazards","Emergency Management & Community Response","Family & Household Continuity","Psychological Resilience & Group Dynamics"]],
+["Long Term Community Sustainability",["Community Organization & Governance","Trade, Logistics & Resource Management","Environmental Stewardship & Resource Renewal"]],
+["Reference & Field Operations",["Survival Reference Encyclopedia","Field Tools, Calculators & Forms","Practical Skills & Training Curriculum"]]
+];
+
+const articles=[
+{
+id:"OSC-0001",
+title:"Emergency Situation Assessment",
+category:"Emergency Survival & Decision Making",
+priority:"P0",
+summary:"A general framework for assessing an unfamiliar emergency.",
+body:[
+"Identify immediate threats to life, including fire, flooding, unstable structures, and dangerous environmental conditions.",
+"Move away from immediate hazards when it is safe to do so.",
+"Determine whether emergency services can be contacted and follow official instructions when available.",
+"Account for people in your group and identify urgent medical needs.",
+"Record your location, available supplies, communications options, and changing conditions.",
+"Reassess conditions regularly. Avoid unnecessary movement into hazardous areas."
+]
+},
+{
+id:"OSC-0002",
+title:"Household Emergency Information",
+category:"Family & Household Continuity",
+priority:"P1",
+summary:"Organize information that may be needed during an evacuation or extended disruption.",
+body:[
+"Record emergency contacts and designated meeting locations.",
+"Maintain accessible copies of important documents using appropriate privacy protections.",
+"Document household medical equipment, accessibility needs, and essential supplies.",
+"Identify evacuation transportation options and alternative routes.",
+"Keep printed information available in case electronic devices become unavailable.",
+"Review and update household information periodically."
+]
+},
+{
+id:"OSC-0003",
+title:"Emergency Communications Planning",
+category:"Radio & Emergency Communications",
+priority:"P1",
+summary:"Create a basic communications plan with multiple ways to exchange information.",
+body:[
+"Identify available communications methods, including cellular, radio, and in person messaging.",
+"Record important contact information and agreed reporting procedures.",
+"Plan alternatives for power outages and network disruptions.",
+"Test communications equipment and charging arrangements before an emergency.",
+"Follow applicable radio licensing and operating requirements.",
+"Use concise, accurate messages and record important information."
+]
+}
+];
+
+function el(id){return document.getElementById(id)}
+function node(tag,text,cls){
+const e=document.createElement(tag);
+if(text!==undefined)e.textContent=text;
+if(cls)e.className=cls;
+return e;
+}
+function show(page){
+document.querySelectorAll(".section").forEach(s=>s.classList.toggle("active",s.id===page));
+document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("active",b.dataset.page===page));
+window.scrollTo(0,0);
+}
+document.querySelectorAll("nav button").forEach(b=>b.addEventListener("click",()=>show(b.dataset.page)));
+
+const divisionBox=el("divisions");
+divisions.forEach(([name,categories],i)=>{
+const card=node("div",undefined,"card");
+card.append(node("span","DIVISION "+String(i+1).padStart(2,"0"),"tag"));
+card.append(node("h3",name));
+card.append(node("p",categories.length+" categories"));
+const button=node("button","Explore categories");
+button.addEventListener("click",()=>{
+el("search").value=categories[0];
+renderArticles();
+show("library");
+});
+card.append(button);
+divisionBox.append(card);
+});
+
+function renderArticles(){
+const q=el("search").value.trim().toLowerCase();
+const results=el("results");
+results.replaceChildren();
+const matching=articles.filter(a=>
+[a.title,a.category,a.summary,a.priority,...a.body].join(" ").toLowerCase().includes(q)
+);
+results.append(node("p",matching.length+" available article(s)"));
+matching.forEach(a=>{
+const box=node("article");
+box.append(node("span",a.id+" | "+a.priority,"tag"));
+box.append(node("h3",a.title));
+box.append(node("p",a.category+" | "+a.summary,"muted"));
+const details=document.createElement("details");
+const summary=node("summary","Read article");
+details.append(summary);
+const list=document.createElement("ol");
+a.body.forEach(step=>list.append(node("li",step)));
+details.append(list);
+const print=node("button","Print article");
+print.addEventListener("click",()=>window.print());
+details.append(print);
+box.append(details);
+results.append(box);
+});
+if(!matching.length)results.append(node("p","No matching articles in this initial release."));
+}
+el("search").addEventListener("input",renderArticles);
+el("clearSearch").addEventListener("click",()=>{
+el("search").value="";
+renderArticles();
+});
+renderArticles();
+el("articleCount").textContent=articles.length;
+
+const emergency=el("emergencyCards");
+["Emergency Situation Assessment","Emergency Communications Planning","Household Emergency Information"].forEach(title=>{
+const card=node("div",undefined,"card");
+card.append(node("h3",title));
+const button=node("button","Open reference");
+button.addEventListener("click",()=>{
+el("search").value=title;
+renderArticles();
+show("library");
+});
+card.append(button);
+emergency.append(card);
+});
+
+const NOTES_KEY="osc_field_notes_v1";
+try{el("fieldNotes").value=localStorage.getItem(NOTES_KEY)||""}
+catch(e){el("noteMessage").textContent="Local storage is unavailable. Export notes to preserve them."}
+
+el("saveNotes").addEventListener("click",()=>{
+try{
+localStorage.setItem(NOTES_KEY,el("fieldNotes").value);
+el("noteMessage").textContent="Notes saved on this device.";
+}catch(e){el("noteMessage").textContent="Unable to save. Export your notes instead."}
+});
+el("exportNotes").addEventListener("click",()=>{
+const data=JSON.stringify({format:"osc-notes",version:1,notes:el("fieldNotes").value},null,2);
+const url=URL.createObjectURL(new Blob([data],{type:"application/json"}));
+const a=document.createElement("a");
+a.href=url;a.download="survival-cache-notes.json";a.click();
+setTimeout(()=>URL.revokeObjectURL(url),1000);
+});
+el("importNotes").addEventListener("click",()=>el("notesFile").click());
+el("notesFile").addEventListener("change",async e=>{
+const file=e.target.files[0];
+if(!file)return;
+try{
+const data=JSON.parse(await file.text());
+if(data.format!=="osc-notes"||typeof data.notes!=="string")throw Error("Invalid notes file");
+if(!confirm("Replace the current notes with the imported notes?"))return;
+el("fieldNotes").value=data.notes;
+el("noteMessage").textContent="Notes imported. Select Save Notes to store them.";
+}catch(err){el("noteMessage").textContent="Could not import this file."}
+e.target.value="";
+});
+
+function updateConnection(){
+el("connection").textContent=navigator.onLine?"Network: Online":"Network: Offline";
+el("offlineState").textContent="Complete offline installation is not available in this initial build.";
+}
+window.addEventListener("online",updateConnection);
+window.addEventListener("offline",updateConnection);
+updateConnection();
+</script>
+</body>
+</html>
