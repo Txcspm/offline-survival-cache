@@ -385,6 +385,47 @@ async function initializeOfflineApp() {
 }
 
 initializeOfflineApp();
+/* Survival Cache knowledge module loader, build 0.3 */
+async function loadKnowledgeModule() {
+  const modulePath = './survival_cache_starter_25.json';
+  const state = document.getElementById('offlineState');
+  try {
+    const response = await fetch(modulePath);
+    if (!response.ok) throw new Error('Module HTTP ' + response.status);
+    const module = await response.json();
+    if (!Array.isArray(module.articles)) throw new Error('Invalid module');
+    const existing = new Set(articles.map(a => a.id));
+    let added = 0;
+    for (const a of module.articles) {
+      if (!a || typeof a.id !== 'string' || typeof a.title !== 'string' ||
+          typeof a.category !== 'string' || !Array.isArray(a.body)) continue;
+      if (existing.has(a.id)) continue;
+      articles.push(a);
+      existing.add(a.id);
+      added++;
+    }
+    document.getElementById('articleCount').textContent = articles.length;
+    renderArticles();
+    const results = document.getElementById('results');
+    if (results) {
+      const note = document.createElement('p');
+      note.className = 'muted';
+      note.textContent = 'Emergency Foundations loaded. New articles are drafts pending individual source and safety review.';
+      results.prepend(note);
+    }
+    console.info('Knowledge module loaded:', added, 'new articles');
+  } catch (error) {
+    console.warn('Knowledge module unavailable:', error);
+    const results = document.getElementById('results');
+    if (results) {
+      const note = document.createElement('p');
+      note.className = 'muted';
+      note.textContent = 'Knowledge module unavailable. The three built in articles remain accessible.';
+      results.prepend(note);
+    }
+  }
+}
+loadKnowledgeModule();
 
 </script>
 </body>
