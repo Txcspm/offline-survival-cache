@@ -2,6 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" type="image/svg+xml" href="./icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Survival Cache">
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#101b20">
@@ -312,6 +318,74 @@ el("offlineState").textContent="Complete offline installation is not available i
 window.addEventListener("online",updateConnection);
 window.addEventListener("offline",updateConnection);
 updateConnection();
+
+async function initializeOfflineApp() {
+  const status = document.getElementById("offlineState");
+
+  if (!("serviceWorker" in navigator)) {
+    status.textContent =
+      "Offline installation is not supported in this browser.";
+    return;
+  }
+
+  try {
+    const registration =
+      await navigator.serviceWorker.register("./sw.js", {
+        scope: "./"
+      });
+
+    await navigator.serviceWorker.ready;
+
+    const ready = await new Promise(resolve => {
+      const channel = new MessageChannel();
+
+      const timeout = setTimeout(() => resolve(false), 5000);
+
+      channel.port1.onmessage = event => {
+        clearTimeout(timeout);
+        resolve(event.data?.ready === true);
+      };
+
+      const worker = registration.active;
+
+      if (!worker) {
+        clearTimeout(timeout);
+        resolve(false);
+        return;
+      }
+
+      worker.postMessage(
+        { type: "CHECK_OFFLINE_READY" },
+        [channel.port2]
+      );
+    });
+
+    status.textContent = ready
+      ? "Emergency application core cached for offline use."
+      : "Offline installation incomplete. Reload while connected.";
+
+    registration.addEventListener("updatefound", () => {
+      const worker = registration.installing;
+      if (!worker) return;
+
+      worker.addEventListener("statechange", () => {
+        if (worker.state === "installed" &&
+            navigator.serviceWorker.controller) {
+          status.textContent =
+            "An application update is ready. Reload to activate it.";
+        }
+      });
+    });
+
+  } catch (error) {
+    status.textContent =
+      "Offline installation failed. Connect and reload.";
+    console.error("Service worker registration:", error);
+  }
+}
+
+initializeOfflineApp();
+
 </script>
 </body>
 </html>
