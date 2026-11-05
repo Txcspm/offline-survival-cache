@@ -567,7 +567,39 @@ loadKnowledgeModule();
   syncCatalog();
   document.getElementById('search').addEventListener('input',()=>renderArticles());
 })();
-
+/* Build 0.6: refresh published knowledge when the device is online.
+   Paste immediately before the closing script tag in index.html. */
+async function refreshPublishedKnowledge() {
+  if (!navigator.onLine || !("serviceWorker" in navigator)) return;
+  try {
+    const registration = await navigator.serviceWorker.ready;
+    const worker = registration.active;
+    if (!worker) return;
+    const channel = new MessageChannel();
+    const result = await new Promise(resolve => {
+      const timeout = setTimeout(() => resolve({ok:false}), 30000);
+      channel.port1.onmessage = event => {
+        clearTimeout(timeout);
+        resolve(event.data || {ok:false});
+      };
+      worker.postMessage({type:"UPDATE_LIBRARY"}, [channel.port2]);
+    });
+    if (result.ok) {
+      console.info("Offline knowledge cache refreshed:", result.count);
+      // Reload to make the existing catalog reader use the new catalog.
+      // Do not automatically reload: this could interrupt field notes.
+      const status = document.getElementById("offlineState");
+      if (status) status.textContent = "Offline knowledge synchronized. Reload to view newly published articles.";
+    } else {
+      console.warn("Knowledge refresh incomplete; previous cache retained.");
+    }
+  } catch (error) {
+    console.warn("Knowledge refresh unavailable:", error);
+  }
+}
+window.addEventListener("online", refreshPublishedKnowledge);
+window.addEventListener("load", () => setTimeout(refreshPublishedKnowledge, 1500));
+  
 </script>
 </body>
 </html>
