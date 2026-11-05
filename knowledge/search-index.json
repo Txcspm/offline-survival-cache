@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "articles": [
+    {
+      "id": "OSC-0005",
+      "text": "immediate hazard assessment practical introductory reference for immediate hazard assessment. emergency survival & decision making check for fire, floodwater, damaged electrical equipment, unstable structures, and hazardous air. move to a safer location when the route is clear. call emergency services when available and follow local instructions. account for everyone and reassess as conditions change."
+    },
+    {
+      "id": "OSC-0006",
+      "text": "shelter or evacuate decision practical introductory reference for shelter or evacuate decision. emergency survival & decision making check current evacuation orders and immediate threats. identify safe shelter options and accessible evacuation routes. consider household medical, mobility, and communication needs. leave early when directed; do not enter flooded roads."
+    },
+    {
+      "id": "OSC-0007",
+      "text": "household accountability practical introductory reference for household accountability. emergency survival & decision making use a printed roster and identify everyone in the household. record last known safe locations and contact methods. choose a meeting point and an alternate. share status through available communications and update the roster."
+    },
+    {
+      "id": "OSC-0008",
+      "text": "incident information log practical introductory reference for incident information log. emergency survival & decision making record the date, time, location, source, and observed conditions. separate verified observations from reports and assumptions. note decisions, actions, and outstanding needs. keep a paper copy when device power is uncertain."
+    },
+    {
+      "id": "OSC-0009",
+      "text": "safe water priorities practical introductory reference for safe water priorities. water collection & treatment use commercially bottled water when available. follow local boil water and do not drink advisories. keep untreated water separate from drinking water. if chemical contamination is suspected, boiling does not make the water safe."
+    },
+    {
+      "id": "OSC-0010",
+      "text": "water storage and rotation practical introductory reference for water storage and rotation. water collection & treatment use clean food grade containers with secure lids. label containers with the filling date and source. store away from fuel, pesticides, and direct sunlight. inspect containers and follow public health guidance for replacement."
+    },
+    {
+      "id": "OSC-0011",
+      "text": "boil water advisory response practical introductory reference for boil water advisory response. water collection & treatment check the exact local advisory and affected area. follow the public health agency's boiling instructions and duration. use safe water for drinking, food preparation, and oral hygiene. wait for the official all clear before resuming normal use."
+    },
+    {
+      "id": "OSC-0012",
+      "text": "water contamination warning signs practical introductory reference for water contamination warning signs. water collection & treatment treat floodwater and water from damaged systems as potentially unsafe. do not rely on appearance, smell, or taste to establish safety. chemical contamination requires specific guidance; boiling may worsen concentration. consult the water utility or public health authority for approved alternatives."
+    },
+    {
+      "id": "OSC-0013",
+      "text": "first aid scene safety practical introductory reference for first aid scene safety. medical care & first aid check the scene for hazards before approaching. call emergency services and request an aed when indicated. use gloves or other protective barriers when available. provide care within your training and follow dispatcher instructions."
+    },
+    {
+      "id": "OSC-0014",
+      "text": "severe bleeding response practical introductory reference for severe bleeding response. medical care & first aid call emergency services immediately. apply firm direct pressure with a clean dressing. for life threatening limb bleeding, use a tourniquet if trained and one is available. monitor the person and follow emergency dispatcher instructions."
+    },
+    {
+      "id": "OSC-0015",
+      "text": "heat illness recognition practical introductory reference for heat illness recognition. medical care & first aid move the person away from heat and begin cooling. confusion, collapse, or altered consciousness may indicate heat stroke. call emergency services immediately for suspected heat stroke. do not give fluids by mouth to a person who cannot safely swallow."
+    },
+    {
+      "id": "OSC-0016",
+      "text": "medication continuity planning practical introductory reference for medication continuity planning. medical care & first aid maintain an up to date medication list with doses and prescriber contacts. keep medicines in their required storage conditions. ask a pharmacist about emergency refills and storage during outages. do not change prescriptions without qualified medical advice."
+    },
+    {
+      "id": "OSC-0017",
+      "text": "shelter site selection practical introductory reference for shelter site selection. shelter & environmental protection avoid floodplains, unstable trees, damaged structures, and downed lines. check ventilation, weather protection, and safe exits. keep combustion devices outside living and sleeping spaces. plan for accessibility, sanitation, and communication."
+    },
+    {
+      "id": "OSC-0018",
+      "text": "carbon monoxide prevention practical introductory reference for carbon monoxide prevention. shelter & environmental protection never run generators, grills, or fuel burning equipment indoors or in garages. position generators outside and away from openings according to manufacturer guidance. use functioning carbon monoxide alarms. if an alarm sounds or poisoning is suspected, move outdoors and call emergency services."
+    },
+    {
+      "id": "OSC-0019",
+      "text": "cold weather protection practical introductory reference for cold weather protection. shelter & environmental protection seek dry shelter and change wet clothing. layer clothing and protect the head, hands, and feet. watch for confusion, unusual drowsiness, or impaired coordination. seek emergency care for suspected hypothermia."
+    },
+    {
+      "id": "OSC-0020",
+      "text": "family communications plan practical introductory reference for family communications plan. radio & emergency communications identify primary and alternate contact methods. choose an out of area contact and household meeting locations. write down contact information and check in procedures. practice the plan and keep paper copies."
+    },
+    {
+      "id": "OSC-0021",
+      "text": "radio message logging practical introductory reference for radio message logging. radio & emergency communications record time, station, sender, recipient, and message content. use plain language and confirm critical details. mark unverified reports clearly. protect personal information and follow applicable radio rules."
+    },
+    {
+      "id": "OSC-0022",
+      "text": "communications power resilience practical introductory reference for communications power resilience. radio & emergency communications charge devices and battery packs before forecast hazards. identify compatible cables, spare batteries, and low power modes. use radios only within their intended operating and licensing requirements. plan for communication failures and in person check ins."
+    },
+    {
+      "id": "OSC-0023",
+      "text": "power outage priorities practical introductory reference for power outage priorities. power generation & electricity identify critical medical equipment and refrigeration needs. use battery powered lighting rather than candles where practical. keep refrigerator and freezer doors closed. follow utility instructions and report downed lines."
+    },
+    {
+      "id": "OSC-0024",
+      "text": "generator safety overview practical introductory reference for generator safety overview. power generation & electricity operate portable generators outdoors only. keep exhaust away from doors, windows, and vents. use properly rated cords and follow manufacturer instructions. never backfeed household wiring through a wall outlet."
+    },
+    {
+      "id": "OSC-0025",
+      "text": "battery and charging plan practical introductory reference for battery and charging plan. power generation & electricity inventory device power requirements and charging connectors. prioritize communications, medical, and lighting needs. store batteries according to manufacturer guidance. inspect damaged or swollen batteries and stop using them."
+    },
+    {
+      "id": "OSC-0026",
+      "text": "evacuation go bag practical introductory reference for evacuation go bag. family & household continuity pack essential medicines, identification, contact lists, and chargers. include water, suitable food, clothing, and basic hygiene items. account for children, pets, and accessibility needs. review contents and expiration dates regularly."
+    },
+    {
+      "id": "OSC-0027",
+      "text": "household document backup practical introductory reference for household document backup. family & household continuity maintain secure copies of identification, insurance, and key records. keep an offline copy protected from unauthorized access. store a paper contact sheet separately. review documents after major household changes."
+    },
+    {
+      "id": "OSC-0028",
+      "text": "pet evacuation preparation practical introductory reference for pet evacuation preparation. family & household continuity prepare carriers, leashes, food, water, and veterinary records. identify pet friendly evacuation options in advance. keep identification and contact information current. never leave animals in unsafe heat or flood conditions."
+    },
+    {
+      "id": "OSC-0029",
+      "text": "return home after disaster practical introductory reference for return home after disaster. family & household continuity wait for official clearance before returning. avoid standing water, damaged wiring, unstable structures, and suspected gas leaks. photograph damage only when safe. use qualified professionals for hazardous repairs."
+    }
+  ]
+}

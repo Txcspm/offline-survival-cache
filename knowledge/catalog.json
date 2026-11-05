@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "total": 25,
+  "counts": {
+    "draft": 25,
+    "in_review": 0,
+    "approved": 0,
+    "retired": 0
+  },
+  "articles": [
+    {
+      "id": "OSC-0005",
+      "title": "Immediate hazard assessment",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for immediate hazard assessment.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0006",
+      "title": "Shelter or evacuate decision",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for shelter or evacuate decision.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0007",
+      "title": "Household accountability",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for household accountability.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0008",
+      "title": "Incident information log",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for incident information log.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0009",
+      "title": "Safe water priorities",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for safe water priorities.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0010",
+      "title": "Water storage and rotation",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for water storage and rotation.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0011",
+      "title": "Boil water advisory response",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for boil water advisory response.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0012",
+      "title": "Water contamination warning signs",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for water contamination warning signs.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0013",
+      "title": "First aid scene safety",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for first aid scene safety.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0014",
+      "title": "Severe bleeding response",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for severe bleeding response.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0015",
+      "title": "Heat illness recognition",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for heat illness recognition.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0016",
+      "title": "Medication continuity planning",
+      "category": "Medical Care & First Aid",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practical introductory reference for medication continuity planning.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0017",
+      "title": "Shelter site selection",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for shelter site selection.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0018",
+      "title": "Carbon monoxide prevention",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for carbon monoxide prevention.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0019",
+      "title": "Cold weather protection",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for cold weather protection.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0020",
+      "title": "Family communications plan",
+      "category": "Radio & Emergency Communications",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for family communications plan.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0021",
+      "title": "Radio message logging",
+      "category": "Radio & Emergency Communications",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for radio message logging.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0022",
+      "title": "Communications power resilience",
+      "category": "Radio & Emergency Communications",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for communications power resilience.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0023",
+      "title": "Power outage priorities",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for power outage priorities.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0024",
+      "title": "Generator safety overview",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for generator safety overview.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0025",
+      "title": "Battery and charging plan",
+      "category": "Power Generation & Electricity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for battery and charging plan.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0026",
+      "title": "Evacuation go bag",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for evacuation go bag.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0027",
+      "title": "Household document backup",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for household document backup.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0028",
+      "title": "Pet evacuation preparation",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for pet evacuation preparation.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    },
+    {
+      "id": "OSC-0029",
+      "title": "Return home after disaster",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Practical introductory reference for return home after disaster.",
+      "module_id": "osc-starter-25",
+      "module_path": "survival_cache_starter_25.json",
+      "reviewed_on": null
+    }
+  ]
+}
