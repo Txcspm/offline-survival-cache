@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-practical-guides-0031-0040",
+  "module_title": "Practical Preparedness Guides Volume 1",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0031",
+      "title": "Emergency go bag inventory",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Build and maintain a portable collection of essential supplies for a short notice evacuation.",
+      "body": [
+        "Identify each household member’s essential needs, including mobility, communication, medications, and infant or pet supplies.",
+        "Choose a bag that each intended carrier can lift and transport safely. Avoid making the bag so heavy that it slows evacuation.",
+        "Pack drinking water, shelf stable food, a flashlight, spare batteries, a power bank, basic first aid supplies, hygiene items, and weather appropriate clothing.",
+        "Include copies of essential contact information and documents, protected against water and unauthorized access.",
+        "Add a paper map, a whistle, and a small amount of cash in appropriate denominations.",
+        "Check expiration dates, battery charge, clothing sizes, and changing medical needs on a recurring schedule.",
+        "Store the bag in a known accessible location and make sure household members know where it is."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0032",
+      "title": "Household emergency contact card",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Prepare a compact contact and reunification reference that works without a phone.",
+      "body": [
+        "Write the names and phone numbers of primary caregivers, local emergency contacts, and one contact outside the affected region.",
+        "Identify a nearby meeting location and a separate location outside the neighborhood, accounting for accessibility needs.",
+        "Include relevant medical alert information only when necessary and protect sensitive information from casual disclosure.",
+        "Provide each household member with a paper copy appropriate to their age and circumstances.",
+        "Agree on a simple procedure for reporting safety and location when communications are available.",
+        "Review the card whenever contact numbers, schools, workplaces, or household needs change."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0033",
+      "title": "Safe flashlight and battery readiness",
+      "category": "Power Generation & Electricity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Maintain safe portable lighting during a power outage.",
+      "body": [
+        "Place a working flashlight or headlamp in each important household location and keep a spare accessible.",
+        "Use the battery chemistry and charging equipment specified by the manufacturer.",
+        "Inspect battery compartments for corrosion, swelling, leaks, or heat damage. Do not use damaged cells.",
+        "Charge rechargeable devices ahead of forecast disruptions and periodically test their operation.",
+        "Keep spare batteries in their original packaging or protected holders so terminals cannot short together.",
+        "Use battery powered lighting rather than candles where possible to reduce fire risk.",
+        "Do not charge damaged lithium ion batteries or leave charging equipment in unsafe locations."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0034",
+      "title": "Refrigerator and freezer outage log",
+      "category": "Food & Nutrition",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Track power interruptions and food temperature to support safer food decisions.",
+      "body": [
+        "Record the time the power failed and the last known refrigerator and freezer temperatures if available.",
+        "Keep refrigerator and freezer doors closed as much as practical to slow warming.",
+        "Use an appliance thermometer to measure temperatures rather than judging food by smell or appearance.",
+        "Follow current USDA or local public health guidance for time and temperature limits before deciding whether to keep perishable food.",
+        "When in doubt about the safety of perishable food, discard it. Do not taste food to determine safety.",
+        "Record when power returned and any food discarded or moved to another safe cold storage location."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0035",
+      "title": "Boil water advisory response",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Respond to an official boil water advisory without confusing it with a do not drink notice.",
+      "body": [
+        "Confirm the exact notice and affected area using the water utility or local public health authority.",
+        "Identify whether the notice is a boil water advisory, a do not drink notice, or a do not use notice. Boiling does not remove chemical contaminants.",
+        "For a boil water advisory concerning microbial contamination, bring clear water to a full rolling boil for one minute, or three minutes at elevations above 6,500 feet, unless the issuing authority directs otherwise.",
+        "If water is cloudy, first filter it through a clean cloth, paper towel, or coffee filter or allow particles to settle and pour off the clear water.",
+        "Let boiled water cool in a clean, covered container. Use treated or approved bottled water for drinking, preparing food, and brushing teeth as directed.",
+        "Follow the issuing authority’s specific instructions for infant formula, medical devices, dishwashing, and pets.",
+        "Only resume normal use after the authority officially lifts the notice and follow any flushing instructions."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0036",
+      "title": "Home utility shutoff reference",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Document household utility controls before an emergency.",
+      "body": [
+        "Locate the main water shutoff, electrical service disconnect, and gas meter or shutoff without operating them unnecessarily.",
+        "Photograph or sketch each location and record access instructions in a protected household reference.",
+        "Ask the utility or a qualified professional which controls occupants may safely operate and under what conditions.",
+        "Never approach damaged electrical equipment, standing water near electrical service, or suspected gas leaks to operate a control.",
+        "If you smell gas or suspect a leak, leave the area and contact the gas utility or emergency services from a safe location. Do not operate electrical switches or create sparks.",
+        "Only qualified personnel or the utility should restore gas service after a shutoff.",
+        "Update the reference after repairs, renovations, or changes to utility equipment."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0037",
+      "title": "Radio communications message log",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Record radio traffic accurately during emergency support activities.",
+      "body": [
+        "Prepare a paper log with columns for date, local time, station or sender, recipient, message summary, and action taken.",
+        "Identify the radio service and follow applicable licensing, frequency, and operational requirements.",
+        "Listen before transmitting and use concise plain language unless an authorized procedure specifies otherwise.",
+        "Record callsigns and message details accurately. Ask for repetition when critical information is unclear.",
+        "Distinguish confirmed information from unverified reports and record the source of each report.",
+        "Avoid transmitting unnecessary personal, medical, or sensitive information over open radio channels.",
+        "Mark tasks completed and retain logs according to the incident organization’s procedures."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0038",
+      "title": "Floodwater exposure precautions",
+      "category": "Natural Disasters & Environmental Hazards",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Reduce avoidable hazards when floodwater is present.",
+      "body": [
+        "Stay out of floodwater whenever possible. Floodwater may conceal debris, sewage, sharp objects, and energized equipment.",
+        "Do not drive through flooded roads. Turn around and choose a safe alternative route.",
+        "Follow local evacuation orders and avoid entering damaged buildings until officials indicate it is safe.",
+        "Keep children and pets away from standing floodwater and contaminated materials.",
+        "If contact with floodwater occurs, wash exposed skin with soap and clean water as soon as possible and cover wounds with waterproof dressings.",
+        "Seek medical advice promptly for injuries, signs of infection, or significant exposure involving an open wound.",
+        "Never touch downed power lines or electrical equipment in or near floodwater."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0039",
+      "title": "Emergency sanitation station",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Set up a temporary hand hygiene and waste management area during a disruption.",
+      "body": [
+        "Choose a location separated from food preparation and drinking water storage.",
+        "Use clean running water and soap for handwashing when available. If unavailable, use an appropriate alcohol based hand sanitizer when hands are not visibly dirty.",
+        "Provide a covered trash container and liners, and keep waste inaccessible to children, animals, and pests.",
+        "For toilet interruptions, follow local public health and emergency management instructions for approved temporary sanitation arrangements.",
+        "Never discharge untreated waste into streams, wells, storm drains, or drinking water sources.",
+        "Wear appropriate protection when handling contaminated waste and wash hands afterward.",
+        "Inspect the station daily for leaks, overflowing containers, and contamination."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0040",
+      "title": "Family evacuation departure checklist",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Use a repeatable departure sequence when an evacuation is ordered or necessary.",
+      "body": [
+        "Confirm the evacuation order, hazard area, recommended routes, and destination using official local information.",
+        "Account for every household member and arrange assistance for anyone with mobility, medical, or communication needs.",
+        "Take essential medications, identification, emergency contact information, assistive equipment, and available go bags.",
+        "Check vehicle fuel or charge, accessible transport options, road conditions, and a backup route before leaving.",
+        "Notify a trusted contact of the destination and expected check in method when doing so is safe.",
+        "Leave immediately when conditions require it. Do not delay for nonessential belongings or routine property preparations.",
+        "Follow official instructions and do not return until authorities indicate it is safe."
+      ],
+      "source_review": "Editorial draft. Verify procedures and source support against current official guidance before approval.",
+      "sources": []
+    }
+  ]
+}
