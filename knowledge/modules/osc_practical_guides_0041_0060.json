@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-practical-guides-0041-0060",
+  "module_title": "Practical Preparedness Guides Volume 2",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-0041",
+      "title": "Emergency contact and reunification plan",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Create a plan that works when family members are separated and phones fail.",
+      "body": [
+        "List every household member and their usual locations during the day.",
+        "Choose two meeting places: one immediately outside the home and one outside the neighborhood.",
+        "Choose an out of area contact who can relay short status messages.",
+        "Write each person’s phone numbers, relevant accessibility needs, and pickup permissions on a paper card.",
+        "Agree on who retrieves children, who checks on dependent adults, and how to report a change of plan.",
+        "Practice the plan, including an exercise without mobile data.",
+        "Store copies in bags, vehicles, and a protected household folder.",
+        "Safety note: Do not publish sensitive personal details in the shared library."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0042",
+      "title": "Household hazard walk through",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Identify preventable household hazards before a disruption.",
+      "body": [
+        "Walk each room and identify blocked exits, unsecured heavy furniture, damaged cords, and overloaded outlets.",
+        "Check that smoke and carbon monoxide alarms are installed and working according to manufacturer instructions.",
+        "Locate water, gas, and electrical shutoff controls and document who is qualified to operate them.",
+        "Inspect exterior drainage, trees, loose objects, and access routes without entering unsafe areas.",
+        "Prioritize hazards by potential severity and ease of correction.",
+        "Record actions, responsible person, and completion date.",
+        "Repeat after major repairs, storms, or household changes.",
+        "Safety note: Never touch damaged electrical equipment or investigate suspected gas leaks. Leave the area and contact appropriate responders."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0043",
+      "title": "Emergency kit inspection cycle",
+      "category": "Family & Household Continuity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Maintain emergency supplies through recurring inspection.",
+      "body": [
+        "Create an inventory listing item, quantity, location, expiration date, and condition.",
+        "Separate essential daily medications and items that require special handling from general supplies.",
+        "Check flashlights, radio batteries, chargers, and cables using their normal operating procedures.",
+        "Inspect sealed food and water for damaged containers and follow manufacturer storage instructions.",
+        "Replace expired or damaged items and record the replacement date.",
+        "Check clothing and footwear sizes for children.",
+        "Set a recurring calendar reminder and repeat after using the kit.",
+        "Safety note: Follow medication storage guidance; do not substitute expired or damaged medicines based on this checklist."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0044",
+      "title": "Safe flashlight and battery use",
+      "category": "Power Generation & Electricity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Use portable lighting while reducing fire and battery hazards.",
+      "body": [
+        "Prefer purpose built LED flashlights or lanterns over open flames.",
+        "Check device and battery labels for compatible chemistry, size, and charging requirements.",
+        "Inspect for swelling, leakage, corrosion, heat, or damage before use.",
+        "Keep spare batteries protected against short circuits and away from heat and moisture.",
+        "Use manufacturer approved charging equipment and a stable, ventilated charging surface.",
+        "Assign lights to fixed locations and verify each light works during periodic inspections.",
+        "Recycle damaged batteries through an appropriate collection program.",
+        "Safety note: Do not charge swollen or damaged batteries; avoid mixing incompatible battery types."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0045",
+      "title": "Refrigerator and freezer outage log",
+      "category": "Food & Nutrition",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Track temperature and time during a power interruption.",
+      "body": [
+        "Record the time power was lost and the last known safe appliance temperatures.",
+        "Keep refrigerator and freezer doors closed as much as practical.",
+        "Use appliance thermometers to measure actual temperatures when available.",
+        "Record each opening, observed temperature, and time on a paper log.",
+        "Consult current USDA or local public health guidance before deciding which perishable foods to retain.",
+        "Discard food when safety is uncertain; smell and appearance cannot establish safety.",
+        "Clean and dry the appliance after spoiled food is removed.",
+        "Safety note: Food safety thresholds depend on measured temperature and elapsed time; verify current USDA guidance."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0046",
+      "title": "Paper communications message form",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Record accurate messages for handoff when networks are unreliable.",
+      "body": [
+        "Start a log with date, local time, time zone, station or sender identifier, and operator name.",
+        "For each message record recipient, sender, priority, exact text, and the time received.",
+        "Read back critical names, numbers, locations, and instructions to confirm accuracy.",
+        "Mark messages as pending, delivered, or unable to deliver, including the time and method.",
+        "Use plain language and avoid transmitting sensitive personal information unnecessarily.",
+        "Preserve original entries; correct mistakes with an annotated update rather than silently erasing.",
+        "Transfer completed logs to the designated records custodian.",
+        "Safety note: Transmit only on frequencies and services for which you are authorized; do not treat unverified reports as confirmed."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0047",
+      "title": "Household water storage inventory",
+      "category": "Water Collection & Treatment",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Track stored water without assuming unknown water is potable.",
+      "body": [
+        "List each container, its volume, fill date, source, and storage location.",
+        "Use containers intended for drinking water and follow their cleaning instructions.",
+        "Keep containers sealed and protected from heat, sunlight, fuel, and chemicals.",
+        "Inspect for damage, leaks, unusual odor, or contamination before use.",
+        "Record household water needs, including pets and medical or accessibility requirements.",
+        "Maintain a separate label for water that is not verified safe for drinking.",
+        "Follow current local health authority instructions during boil water or do not drink advisories.",
+        "Safety note: Boiling does not remove chemical contamination; follow the specific advisory and use an alternative safe supply when instructed."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0048",
+      "title": "Shelter room selection checklist",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Identify safer interior refuge options for different hazards.",
+      "body": [
+        "Identify the specific hazard before selecting a room; flood, tornado, smoke, and extreme heat require different actions.",
+        "Consult local emergency management guidance for designated shelters and evacuation orders.",
+        "For tornado risk, identify a small interior room on the lowest suitable level, away from windows, when no rated safe room is available.",
+        "For flood risk, avoid basements and low areas and follow evacuation instructions.",
+        "Verify exits, communication options, accessibility, and space for all household members.",
+        "Stage a flashlight, shoes, communications device, and essential supplies.",
+        "Practice reaching the selected area without relying on electricity.",
+        "Safety note: A single room is not safe for every hazard; do not shelter in a flood prone basement."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0049",
+      "title": "Storm debris documentation",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Document property damage without entering unsafe areas.",
+      "body": [
+        "Wait until officials indicate it is safe to access the property.",
+        "Photograph visible damage from safe positions before cleanup where practical.",
+        "Record date, location, approximate dimensions, and affected property for each item.",
+        "Keep receipts for emergency repairs, lodging, and necessary supplies.",
+        "Separate debris by local collection rules without touching downed lines or unknown chemicals.",
+        "Use appropriate protective equipment for permitted cleanup tasks.",
+        "Back up photos and notes locally and keep a paper summary for insurance or assistance applications.",
+        "Safety note: Avoid unstable structures, floodwater, exposed wiring, and suspicious containers; request professional assistance."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0050",
+      "title": "Evacuation departure checklist",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Use a repeatable process to leave promptly when instructed.",
+      "body": [
+        "Check official evacuation instructions and the latest route restrictions.",
+        "Account for household members and confirm the destination and alternate destination.",
+        "Pack essential medicines, identification, accessibility equipment, pet supplies, and communications devices.",
+        "Notify the designated contact of departure and intended route without sharing sensitive details publicly.",
+        "Secure the home only if doing so does not delay a required evacuation.",
+        "Record departure time, vehicle fuel level, and planned check in points.",
+        "Avoid flooded roads and obey road closure instructions.",
+        "Safety note: Do not delay evacuation to complete a checklist or retrieve property."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0051",
+      "title": "Generator placement and carbon monoxide precautions",
+      "category": "Power Generation & Electricity",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Reduce lethal exhaust and electrical hazards from portable generators.",
+      "body": [
+        "Read the generator manual and identify its exhaust outlet before operation.",
+        "Operate portable fuel powered generators outdoors only, well away from doors, windows, vents, and occupied structures.",
+        "Never operate a generator in a garage, basement, enclosed porch, or near an opening, even with doors open.",
+        "Use working carbon monoxide alarms inside occupied buildings.",
+        "Keep the generator dry and follow manufacturer instructions for cords and connected loads.",
+        "Never connect a generator to household wiring without properly installed transfer equipment by a qualified electrician.",
+        "Shut down and allow cooling before refueling according to the manufacturer.",
+        "Safety note: Carbon monoxide is odorless and can kill quickly. If an alarm sounds or symptoms develop, move everyone to fresh air and seek emergency help."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0052",
+      "title": "Smoke alarm response and exit drill",
+      "category": "Fire, Heating & Cooking Systems",
+      "priority": "P0",
+      "status": "draft",
+      "summary": "Practice rapid exit when a smoke alarm activates.",
+      "body": [
+        "Identify two ways out of each sleeping area where possible.",
+        "Keep exit paths clear and agree on an outdoor meeting point.",
+        "Test alarms according to the manufacturer and local requirements.",
+        "Practice exiting low under smoke during drills without creating smoke or fire.",
+        "If an alarm sounds, leave immediately and close doors behind you when safe.",
+        "Once outside, call emergency services and report anyone missing.",
+        "Never reenter a burning building.",
+        "Safety note: Do not spend time collecting belongings or attempt to investigate a growing fire."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0053",
+      "title": "Extreme heat household check plan",
+      "category": "Natural Disasters & Environmental Hazards",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Coordinate safe check ins during dangerous heat.",
+      "body": [
+        "Monitor official heat alerts and local cooling center announcements.",
+        "Identify people who may need extra help, including older adults, young children, and those without reliable cooling.",
+        "Agree on check in times and backup communication methods.",
+        "Identify a safe, accessible cooled location and a transport plan.",
+        "Keep drinking water available and follow individual medical advice about fluid restrictions.",
+        "Recognize confusion, fainting, and other signs of severe heat illness as reasons for urgent medical help.",
+        "Document missed check ins and activate the agreed escalation plan.",
+        "Safety note: Heat stroke is a medical emergency. Call emergency services for altered mental status or other severe symptoms."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0054",
+      "title": "Emergency sanitation station setup",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Organize hand hygiene and waste handling when normal plumbing is interrupted.",
+      "body": [
+        "Determine whether public health or utility officials have issued sewage or water restrictions.",
+        "Separate handwashing, food preparation, and waste handling areas.",
+        "Provide soap and a safe water source for handwashing when available.",
+        "Use lined, closable waste containers and keep them away from food and children.",
+        "Follow local public health instructions for toilet alternatives and waste disposal.",
+        "Wear suitable gloves for handling waste and wash hands afterward.",
+        "Inspect the station regularly and replenish supplies.",
+        "Safety note: Do not discharge waste into floodwater, waterways, or storm drains; local rules govern disposal."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0055",
+      "title": "Medication and medical equipment continuity list",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "summary": "Document essential health supplies for an evacuation or outage.",
+      "body": [
+        "Create a private list of prescribed medicines, dose instructions from the label, prescriber, and pharmacy contact.",
+        "List equipment that depends on electricity, refrigeration, consumables, or routine servicing.",
+        "Ask the treating clinician or pharmacist about safe backup arrangements and travel storage.",
+        "Identify charging and backup power needs from device manuals.",
+        "Keep essential documentation accessible to authorized caregivers.",
+        "Review the list after medication or equipment changes.",
+        "Protect records from unauthorized access and keep an offline copy.",
+        "Safety note: Do not change medication doses or use improvised power connections based on this list."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0056",
+      "title": "Neighborhood welfare check coordination",
+      "category": "Emergency Management & Community Response",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Organize voluntary checks without creating additional risk.",
+      "body": [
+        "Confirm whether local emergency management has issued movement restrictions.",
+        "Create a voluntary roster with only necessary contact and accessibility information.",
+        "Assign pairs to safe, authorized areas and establish check in times.",
+        "Use a standard status form: contact made, assistance requested, unable to contact, and referral.",
+        "Escalate medical emergencies to professional responders rather than attempting unsupported interventions.",
+        "Keep personal information confidential and limit sharing to authorized helpers.",
+        "Record completed checks and outstanding requests.",
+        "Safety note: Never enter damaged buildings, floodwater, or restricted areas to complete a welfare check."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0057",
+      "title": "Portable radio readiness inspection",
+      "category": "Radio & Emergency Communications",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Confirm handheld radio readiness before deployment.",
+      "body": [
+        "Verify radio model, charged battery, spare power, antenna, and approved accessories.",
+        "Check that programmed channels match the applicable communications plan.",
+        "Confirm time, location, callsign or identifier, and legal operating authority.",
+        "Perform a brief radio check on an appropriate channel without unnecessary traffic.",
+        "Record receive and transmit performance, battery condition, and faults.",
+        "Pack a paper frequency and contact plan as permitted by the organization.",
+        "Keep radios dry and protect connectors during transport.",
+        "Safety note: Never transmit on public safety or other restricted channels without authorization."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0058",
+      "title": "Paper map and route backup",
+      "category": "Navigation & Cartography",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Preserve basic navigation when GPS or data service fails.",
+      "body": [
+        "Obtain a current paper map covering home, destination, and alternate routes.",
+        "Mark major roads, bridges, known flood areas, shelters, and meeting points.",
+        "Write addresses and phone numbers for destinations on a separate card.",
+        "Practice orienting the map using visible landmarks.",
+        "Check official road closures before travel when information is available.",
+        "Keep maps in a protective sleeve and a spare copy in the vehicle.",
+        "Revisit routes after construction, seasonal flooding, or other changes.",
+        "Safety note: Never cross barricades or drive through floodwater based on a paper route plan."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0059",
+      "title": "Portable power bank rotation",
+      "category": "Power Generation & Electricity",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Keep backup charging equipment serviceable.",
+      "body": [
+        "List power banks by capacity, supported ports, and assigned device.",
+        "Inspect cases, cables, and connectors for damage or swelling.",
+        "Charge and store according to the manufacturer’s temperature and state of charge guidance.",
+        "Test charging with each essential device and note compatible cables.",
+        "Label each bank with its last inspection date.",
+        "Rotate units so one remains ready for immediate use.",
+        "Dispose of damaged lithium batteries through appropriate collection channels.",
+        "Safety note: Do not use, puncture, or charge swollen, leaking, or overheating batteries."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    },
+    {
+      "id": "OSC-0060",
+      "title": "Document backup and offline access",
+      "category": "Computing & Offline Information Systems",
+      "priority": "P2",
+      "status": "draft",
+      "summary": "Preserve important reference files during a connectivity outage.",
+      "body": [
+        "Identify documents needed for immediate decisions, including contacts, plans, maps, and manuals.",
+        "Store a working copy on a device that can open files without internet access.",
+        "Create a second copy on separate removable storage or another trusted device.",
+        "Encrypt sensitive records where appropriate and keep recovery information secure.",
+        "Test opening the files while the device is disconnected from all networks.",
+        "Record backup date, storage location, and responsible custodian.",
+        "Refresh copies when important information changes.",
+        "Safety note: A file being visible in a cloud app does not guarantee offline availability; test actual access."
+      ],
+      "source_review": "Pending article specific source verification and qualified editorial review.",
+      "sources": []
+    }
+  ]
+}
