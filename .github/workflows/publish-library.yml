@@ -4,37 +4,57 @@ on:
   push:
     branches: [main]
     paths:
+      - 'index.html'
+      - 'sw.js'
+      - 'manifest.webmanifest'
+      - 'icon.svg'
       - 'survival_cache_starter_25.json'
-      - 'knowledge/modules/**'
+      - 'knowledge/**'
       - 'tools/build_catalog.py'
       - '.github/workflows/publish-library.yml'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-  group: knowledge-publisher
+  group: pages-publishing
   cancel-in-progress: false
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-      - name: Validate articles and build catalog
+      - name: Validate articles and generate catalog
         run: python3 tools/build_catalog.py
-      - name: Commit generated catalog
+      - name: Check required files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add knowledge/catalog.json knowledge/search-index.json
-          if git diff --cached --quiet; then
-            echo "Catalog is already current"
-          else
-            git commit -m "Refresh knowledge catalog"
-            git push
-          fi
+          test -s index.html
+          test -s sw.js
+          test -s manifest.webmanifest
+          test -s knowledge/catalog.json
+          test -s knowledge/search-index.json
+          node --check sw.js
+      - name: Prepare Pages files
+        run: |
+          mkdir -p _site
+          cp index.html sw.js manifest.webmanifest icon.svg _site/
+          cp survival_cache_starter_25.json _site/
+          cp -R knowledge _site/knowledge
+          touch _site/.nojekyll
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
