@@ -1,0 +1,13 @@
+module.exports = {
+  testDir: "./tests",
+  testMatch: "*.spec.js",
+  workers: 1,
+  use: {
+    baseURL: "http://127.0.0.1:8000",
+    launchOptions: {
+      executablePath: process.env.CI ? undefined : "/usr/bin/chromium",
+      args: ["--no-sandbox"],
+    },
+  },
+  webServer: { command: "python3 tests/server.py", port: 8000 },
+};
