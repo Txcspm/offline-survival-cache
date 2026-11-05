@@ -1,0 +1,40 @@
+name: Publish Knowledge Catalog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'survival_cache_starter_25.json'
+      - 'knowledge/modules/**'
+      - 'tools/build_catalog.py'
+      - '.github/workflows/publish-library.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: knowledge-publisher
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Validate articles and build catalog
+        run: python3 tools/build_catalog.py
+      - name: Commit generated catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add knowledge/catalog.json knowledge/search-index.json
+          if git diff --cached --quiet; then
+            echo "Catalog is already current"
+          else
+            git commit -m "Refresh knowledge catalog"
+            git push
+          fi
