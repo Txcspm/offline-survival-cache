@@ -58,6 +58,7 @@ def build():
                 fail('missing module_id')
             if module_id in module_ids: fail('duplicate module_id')
             module_ids.add(module_id)
+            if module.get('review_status') == 'approved' and any(not isinstance(a,dict) or a.get('status') != 'approved' for a in module['articles']): fail('approved module contains unapproved articles')
             hashes[path.relative_to(ROOT).as_posix()] = hashlib.sha256(path.read_bytes()).hexdigest()
             for idx, article in enumerate(module['articles'], 1):
                 where = f'{path.relative_to(ROOT)} article {idx}'

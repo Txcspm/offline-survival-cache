@@ -566,7 +566,7 @@ let installPrompt;
 window.addEventListener("beforeinstallprompt",event=>{event.preventDefault();installPrompt=event;el("installApp").hidden=false;});
 el("installApp").addEventListener("click",async()=>{if(installPrompt){await installPrompt.prompt();installPrompt=null;el("installApp").hidden=true;}});
 window.addEventListener("online", refreshPublishedKnowledge);
-window.addEventListener("load", () => setTimeout(refreshPublishedKnowledge, 1500));
+window.addEventListener("load", refreshPublishedKnowledge);
   
 </script>
 </body>
