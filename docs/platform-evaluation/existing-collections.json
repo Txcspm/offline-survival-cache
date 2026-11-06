@@ -1,0 +1,57 @@
+{
+  "accessed_on": "2026-11-05",
+  "source": "Official Kiwix OPDS catalog",
+  "note": "Availability evidence only. No archives were downloaded, verified, licensed for this product, or represented as editorially approved.",
+  "collections": [
+    {
+      "title": "Appropedia",
+      "catalog_query": "https://library.kiwix.org/catalog/v2/entries?lang=eng&q=appropedia&count=5",
+      "preview": "https://browse.library.kiwix.org/content/appropedia_en_all_maxi_2026-02",
+      "acquisition_metadata": "https://lb.download.kiwix.org/zim/other/appropedia_en_all_maxi_2026-02.zim.meta4",
+      "reported_bytes": 581642240,
+      "downloaded": false,
+      "license_assessed": false,
+      "editorial_approval": false
+    },
+    {
+      "title": "WikiMed Medical Encyclopedia",
+      "catalog_query": "https://library.kiwix.org/catalog/v2/entries?lang=eng&q=wikimed&count=5",
+      "preview": "https://browse.library.kiwix.org/content/wikipedia_en_medicine_nopic_2026-10",
+      "acquisition_metadata": "https://lb.download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_nopic_2026-10.zim.meta4",
+      "reported_bytes": 1047708672,
+      "downloaded": false,
+      "license_assessed": false,
+      "editorial_approval": false
+    },
+    {
+      "title": "WikiMed Medical Encyclopedia",
+      "catalog_query": "https://library.kiwix.org/catalog/v2/entries?lang=eng&q=wikimed&count=5",
+      "preview": "https://browse.library.kiwix.org/content/wikipedia_en_medicine_maxi_2026-10",
+      "acquisition_metadata": "https://lb.download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_maxi_2026-10.zim.meta4",
+      "reported_bytes": 1864210432,
+      "downloaded": false,
+      "license_assessed": false,
+      "editorial_approval": false
+    },
+    {
+      "title": "WikiMed Medical Encyclopedia",
+      "catalog_query": "https://library.kiwix.org/catalog/v2/entries?lang=eng&q=wikimed&count=5",
+      "preview": "https://browse.library.kiwix.org/content/wikipedia_en_medicine_mini_2026-10",
+      "acquisition_metadata": "https://lb.download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_mini_2026-10.zim.meta4",
+      "reported_bytes": 174351360,
+      "downloaded": false,
+      "license_assessed": false,
+      "editorial_approval": false
+    },
+    {
+      "title": "iFixit in English",
+      "catalog_query": "https://library.kiwix.org/catalog/v2/entries?lang=eng&q=repair&count=5",
+      "preview": "https://browse.library.kiwix.org/content/ifixit_en_all_2025-12",
+      "acquisition_metadata": "https://lb.download.kiwix.org/zim/ifixit/ifixit_en_all_2025-12.zim.meta4",
+      "reported_bytes": 3570696192,
+      "downloaded": false,
+      "license_assessed": false,
+      "editorial_approval": false
+    }
+  ]
+}
