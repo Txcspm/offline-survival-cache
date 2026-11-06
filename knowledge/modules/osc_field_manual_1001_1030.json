@@ -1,0 +1,782 @@
+{
+  "schema_version": "1.0",
+  "module_id": "osc-field-manual-1001-1030",
+  "module_title": "Field Manual: Thirty Practical Foundations",
+  "review_status": "draft",
+  "articles": [
+    {
+      "id": "OSC-1001",
+      "title": "A ten-minute household situation briefing",
+      "summary": "Turn scattered observations into a short action plan with named responsibilities, explicit uncertainty, and a scheduled reassessment.",
+      "category": "Emergency Survival & Decision Making",
+      "priority": "P0",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose and limits: Use this briefing when a disruption begins and household members need a shared picture. It is a coordination method, not a reason to delay evacuation, emergency calls, or urgent medical care. If the current location is unsafe, move to a safer place first when a safe route is available. Do not enter a hazardous area to complete the worksheet.",
+        "Prepare a single record: Put the date, time, location, and recorder at the top of a page. Divide it into people, immediate hazards, essential services, resources, and next decisions. Use a pencil and a clock that everyone can reference. If people are separated, record confirmed locations separately from assumed ones; a missed check-in is not confirmation of injury or safety.",
+        "Describe observations before conclusions: Ask each person what they directly saw, where, and when. Write “water crossing the driveway at 14:10” instead of “the neighborhood is flooding.” Label secondhand reports with the speaker and time received. Unknown facts deserve an explicit question mark. This prevents a repeated rumor from quietly becoming an instruction.",
+        "Choose the next three actions: Identify the tasks that reduce immediate exposure or maintain essential care. Give each task one responsible adult, a safe boundary, and a check-back time. “Contact the utility and report back in ten minutes; do not approach the downed line” is more useful than “check the electricity.” Do not assign anyone work beyond their training, mobility, or available protection.",
+        "Set decision triggers: Record what would make you leave, stop a task, request help, or change destinations. Use official instructions and site-specific conditions rather than invented universal thresholds. Agree on where people will regroup if communications fail. A trigger is only usable if someone is actually monitoring it and knows how to inform the group.",
+        "Reassess and hand over: Read the three actions aloud, ask each owner to repeat their task, and set the next briefing time. At the next briefing, distinguish completed work, changed conditions, and unresolved needs. Keep earlier pages rather than erasing the history. A replacement recorder should be able to identify the current plan without relying on someone's memory."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1002",
+      "title": "Assemble and maintain a usable first-aid kit",
+      "summary": "Organize basic supplies around familiar tasks, personal needs, inspection, and the limits of your training.",
+      "category": "Medical Care & First Aid",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: A first-aid kit supports trained care; possessing equipment does not qualify someone to diagnose an illness or perform a procedure. This guide covers preparation and organization, not treatment or medication dosing. For serious injury, breathing difficulty, altered consciousness, or another urgent concern, seek emergency medical help through locally available channels.",
+        "Start with the people and setting: Record how many people the kit supports, the time needed to reach professional care, common activities, and known accessibility requirements. Ask household members about essential personal items they want included, while respecting privacy. For prescriptions, storage-sensitive products, and individual medical plans, obtain advice from the relevant clinician or pharmacist rather than improvising substitutions.",
+        "Build a simple inventory: A commercially prepared kit can be a starting point. Group unopened dressings, protective gloves, hygiene supplies, and other familiar items into labeled pouches. Add a printed inventory with quantity, expiration where applicable, location, and replenishment contact. Keep instructions for unfamiliar products with their packaging. Exclude items no one can safely use, and store sharps or medicines so children cannot access them.",
+        "Keep clean work clean: Place the kit somewhere dry and reachable without entering a hazard. Keep it separate from cleaning chemicals, food waste, and repair materials. CDC identifies handwashing before and after treating a wound as an important hygiene practice. Plan access to soap and safe running water; alcohol-based sanitizer of at least 60% alcohol is a fallback when soap and water are unavailable, not a substitute for every situation.",
+        "Inspect and replenish: Open the kit on a clean surface before a trip and after use. Check package seals, contamination, moisture, missing items, and expiration dates. Follow manufacturers' storage instructions; a car can expose supplies to temperature extremes. Replace compromised products rather than attempting to sterilize disposable materials at home. Record what was used without storing unnecessary medical details in a public inventory.",
+        "Practice the retrieval task: Ask a second person to find the kit and a named pouch without coaching. Correct confusing labels or blocked access. Pair the kit with current hands-on first-aid training and local emergency contacts. At the next review, prioritize the gaps revealed by actual use instead of adding increasingly complex equipment."
+      ],
+      "sources": [
+        {
+          "organization": "U.S. National Park Service",
+          "title": "Ten Essentials",
+          "url": "https://www.nps.gov/articles/10essentials.htm",
+          "locator": "Navigation; Extra clothing; First-aid supplies; Emergency shelter",
+          "accessed_on": "2026-11-05"
+        },
+        {
+          "organization": "CDC",
+          "title": "About Handwashing",
+          "url": "https://www.cdc.gov/clean-hands/about/index.html",
+          "locator": "Key times to wash hands; How it works",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1003",
+      "title": "Build a weather-ready personal shelter kit",
+      "summary": "Choose, pack, and practice with a shelter system before exposure makes experimentation costly.",
+      "category": "Shelter & Environmental Protection",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope and safe location: This is a preparation guide for a personal shelter kit, not a construction specification or a guarantee against extreme weather. Evacuation orders, fire, flooding, unstable trees, and damaged structures can make an otherwise comfortable shelter location unacceptable. Choose a legal, safe location first; do not treat a tarp as protection from every environmental hazard.",
+        "Match the kit to conditions: List the coldest, wettest, and windiest conditions realistically expected for the place and season. Consider ground moisture, insects, mobility, and how a person will keep clothing dry. The National Park Service includes extra clothing and emergency shelter in its Ten Essentials. A tent, bivy, tarp, or emergency blanket has different limitations; read the manufacturer's instructions and do not assume interchangeable performance.",
+        "Check the complete system: Lay out shelter fabric, poles or supports, stakes where permitted, cordage appropriate to the product, ground protection, insulation, and a light. Inspect seams, fasteners, poles, and anchor points. A missing connector can make a larger component useless. Pack small repair items only if you know how to use them, and avoid tying anything to an unsafe overhead object.",
+        "Practice in forgiving conditions: Erect the shelter in daylight near a safe indoor fallback. Time the task, then repeat it with gloves or the lighting you expect to use. Confirm that the occupants fit, entry and exit remain accessible, and the fabric is not pressed against hot equipment. Dry the components completely before repacking so the practice does not create a moisture problem in storage.",
+        "Separate shelter from combustion: Never run a generator inside a tent, building, garage, or other enclosure. CDC warns that camp stoves and charcoal are unsafe indoors; do not improvise a heater by burning fuel in your sleeping space. Keep the shelter plan compatible with safe cooking arrangements rather than trading exposure risk for carbon-monoxide or fire risk.",
+        "Write the fallback plan: Put the shelter model, missing parts, packing location, last practice date, and known limits on a kit card. Identify what would cause you to seek a building, cancel a trip, or leave the area. A successful practice includes recognizing when the kit is insufficient and acting before weather removes the safer alternatives."
+      ],
+      "sources": [
+        {
+          "organization": "U.S. National Park Service",
+          "title": "Ten Essentials",
+          "url": "https://www.nps.gov/articles/10essentials.htm",
+          "locator": "Navigation; Extra clothing; First-aid supplies; Emergency shelter",
+          "accessed_on": "2026-11-05"
+        },
+        {
+          "organization": "CDC",
+          "title": "About Carbon Monoxide Poisoning",
+          "url": "https://www.cdc.gov/carbon-monoxide/about/index.html",
+          "locator": "Symptoms; CO detectors; Portable generators; Chimneys, charcoal, and portable appliances",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1004",
+      "title": "Boil and protect emergency drinking water",
+      "summary": "Follow a clear heat-treatment workflow for microbial contamination while recognizing hazards boiling cannot remove.",
+      "category": "Water Collection & Treatment",
+      "priority": "P0",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope and stop conditions: Boiling is a method for killing germs. It does not make water contaminated with fuel, toxic chemicals, or radioactive material safe. If such contamination is known or suspected, use commercially bottled water or another safe source and contact the health department for advice. Follow the current local advisory; a “do not use” notice is different from a boil-water notice.",
+        "Prepare a clean workflow: Gather a heat-safe pot, a safe heat source, a timer, and clean sanitized containers with tight covers. Separate untreated water and its utensils from the finished-water area. Keep children and people with limited mobility clear of hot surfaces. Do not operate outdoor-only combustion equipment inside to make boiling possible.",
+        "Clarify cloudy water first: CDC advises filtering cloudy water through a clean cloth, paper towel, or coffee filter, or allowing it to settle and drawing off the clear portion. This removes visible material; it is not itself disinfection. Avoid reintroducing sediment when transferring the clearer water. Keep enough volume in the pot for safe handling and leave room to prevent boil-over.",
+        "Apply the boil time: Bring the clear water to a rolling boil for one minute. At elevations above 6,500 feet, CDC specifies three minutes. Start timing after the water reaches a rolling boil, not while it is merely warming or showing small bubbles. Do not mix an untreated batch into a finished batch and assume the earlier boiling time covers both.",
+        "Cool and protect: Allow the boiled water to cool without adding untreated water or untreated ice. Transfer it using clean handling into sanitized, tightly covered containers. Mark the contents as treated and record the preparation date. Avoid touching the inside of the container or lid, and pour water out instead of repeatedly dipping hands or a shared cup into it.",
+        "Use safe water consistently: During an applicable advisory, drinking is not the only exposure route. CDC also lists brushing teeth, washing or preparing food, making ice, and other hygiene tasks as activities requiring safe water. Follow specific guidance for infant feeding and people with medical needs. A small container reserved for safe-water tasks can reduce accidental use of the wrong supply.",
+        "If you cannot boil: Use safe bottled water when available. Chemical treatment depends on product concentration, contact time, water conditions, and the organisms of concern; follow the product label and public-health guidance rather than an improvised dose. Portable filters do not all remove bacteria, parasites, and viruses. A clear appearance or improved taste does not establish that water is safe."
+      ],
+      "sources": [
+        {
+          "organization": "CDC",
+          "title": "How to Make Water Safe in an Emergency",
+          "url": "https://www.cdc.gov/water-emergency/about/index.html",
+          "locator": "Overview; Boil; Disinfect; Filter",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1005",
+      "title": "Make a refrigerator-outage decision record",
+      "summary": "Use time and temperature evidence to make conservative food decisions without tasting questionable food.",
+      "category": "Food & Nutrition",
+      "priority": "P0",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: During a power failure, a short written record helps distinguish measured conditions from guesses. This guide follows CDC's general emergency food guidance; it does not override food-specific instructions, medical dietary needs, or local public-health orders. Never taste food to decide whether it is safe, and do not assume reheating reverses every hazard created by unsafe storage.",
+        "Prepare before the outage: Keep appliance thermometers in the refrigerator and freezer. CDC specifies 40°F or below for the refrigerator and 0°F or below for the freezer. Have an insulated cooler and frozen gel packs if practical. Record where thermometers are placed and how you will read them without repeatedly opening the doors. An inaccessible or unreadable thermometer provides little decision support.",
+        "Begin the record: Write the known or estimated time power was lost, the last reliable temperature, the time of each check, and whether doors were opened. Label uncertain times as estimates. Keep refrigerator and freezer doors closed as much as possible. With doors closed, CDC gives general holding periods of four hours for a refrigerator, 48 hours for a full freezer, and 24 hours for a half-full freezer.",
+        "Plan the cold-source transition: If the outage reaches four hours and a cooler and ice are available, move refrigerated perishables to the cooler and keep them at 40°F or below. Record the time and measured conditions. The fact that a container contains ice is not by itself proof that every food inside has stayed cold enough; placement, meltwater, opening, and duration affect the result.",
+        "Decide conservatively: CDC advises discarding refrigerated perishables such as meat, fish, eggs, milk, cut produce, and leftovers after four hours without power or a cold source. Use the current food-specific discard chart when an item needs a more precise decision. Thawed frozen food that still contains ice crystals or is at 40°F or below may be refrozen or cooked according to CDC's guidance. If a safe history cannot be established, discard it.",
+        "Separate disposal from recovery: Mark questionable food so it is not accidentally served while someone seeks advice. Keep discarded material away from animals and children. Floodwater exposure creates additional contamination concerns even when a package looks intact; do not treat a temperature record as a flood-safety assessment. Preserve the record for planning future cold-storage capacity, not as a justification for taking a chance on uncertain food."
+      ],
+      "sources": [
+        {
+          "organization": "CDC",
+          "title": "Keep Food Safe After a Disaster or Emergency",
+          "url": "https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html",
+          "locator": "Prepare for emergencies; Steps to take during and after a power outage",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1006",
+      "title": "Start a small vegetable bed with a planting log",
+      "summary": "Choose manageable crops, prepare suitable soil, and use local conditions rather than a borrowed calendar.",
+      "category": "Agriculture & Gardening",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: A first vegetable bed should teach reliable production at a scale you can water, weed, and observe. It will not immediately replace stored food or a complete diet. The cited University of Minnesota guidance is region-specific; its planting dates and crop choices are not universal. Use local extension advice, your growing season, and current weather to adapt the plan.",
+        "Choose the site and scale: Mark a small accessible area with suitable sunlight and a dependable water source. Check access rules and whether past land use suggests contamination. Where soil history is uncertain, obtain appropriate local advice and testing rather than assuming an attractive site is safe for food production. Leave room to reach plants without repeatedly stepping on the growing area.",
+        "Prepare soil at the right moisture: Minnesota Extension advises avoiding soil work when it is too wet or too dry. Soil that sticks heavily to a shovel is too wet; appropriately moist soil crumbles rather than remaining a tight molded ball. Use a soil test to guide amendments and fertilizer. More amendment is not automatically better, and an improvised fertilizer dose can damage plants or nearby water.",
+        "Select a short crop list: Choose crops you already eat and can use after harvest. Read the seed packet for spacing, depth, temperature requirements, maturity time, and whether the crop is better direct-sown or transplanted. Separate cool-season and warm-season decisions. A favorable afternoon is not evidence that the soil or remaining season meets a crop's requirements.",
+        "Plant and label: Record crop, variety, seed lot if available, date, location, and what was planted. Mark rows so later weeding does not remove seedlings. Water gently enough to avoid washing seeds out. If using transplants, acclimate them to outdoor conditions before moving them permanently; do not reduce water to the point of wilting or ignore a frost forecast.",
+        "Observe and adjust: Make brief regular entries for emergence, rainfall or watering, visible damage, and harvest. Describe symptoms before guessing the cause. Use a local extension service for pest or disease identification and follow any product label exactly. At season's end, compare effort and harvest, keep successful varieties in the plan, and expand only as water, labor, and storage allow."
+      ],
+      "sources": [
+        {
+          "organization": "University of Minnesota Extension",
+          "title": "Planting the vegetable garden",
+          "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/planting-the-vegetable-garden",
+          "locator": "Soil preparation; Soil testing and fertility; Hardening and transplanting seedlings",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1007",
+      "title": "Prepare an animal evacuation information packet",
+      "summary": "Keep care instructions, identification, transport arrangements, and veterinary contacts together before displacement.",
+      "category": "Animal Husbandry & Fisheries",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This packet is intended for household pets and must be adapted with a veterinarian or appropriate animal professional for each species. Livestock, aquatic systems, exotic animals, and working animals can require specialist transport and facilities. It does not provide sedation, medication changes, or emergency treatment instructions.",
+        "Identify each animal: Make a separate sheet with name, species, distinguishing features, a recent photograph, microchip or identification details where applicable, and your contact information. Keep ownership and vaccination records as needed by receiving facilities. Do not expose sensitive household details on a public lost-animal poster; maintain a private care copy and a limited public identification copy.",
+        "Record ordinary care clearly: Document usual food, feeding schedule, water arrangements, equipment, and relevant health needs. Include veterinarian contact details and instructions already provided by that veterinarian. Keep medicines in their original labeled containers and confirm storage and refill arrangements before a disruption. Never give one animal another animal's prescription or substitute a human medicine based on this packet.",
+        "Plan transport and reception: Identify a usable carrier, crate, leash, harness, or other species-appropriate restraint and verify it is sound. Confirm that the vehicle and receiving site can accommodate the animal. A general evacuation shelter may not house pets in the same way as people; contact the actual facility when possible and keep a fallback destination. Practice loading in calm conditions without forcing a distressed animal into a dangerous struggle.",
+        "Handle disruption carefully: CDC notes that even normally gentle pets may behave differently when frightened or injured. Keep pets restrained during transport and away from wildlife, strays, contaminated water, and damaged areas. Wash hands after handling animals, their food, or waste. Seek veterinary help for illness or injury and report bite wounds to medical personnel promptly.",
+        "Keep the packet current: Store a printed copy with transport supplies and a protected digital copy where appropriate. When returning home, inspect for sharp debris, chemicals, damaged wiring, and escape routes before releasing an animal into the area. Record what changed during evacuation so temporary caretakers do not rely on outdated instructions."
+      ],
+      "sources": [
+        {
+          "organization": "CDC",
+          "title": "Pet Safety in Emergencies",
+          "url": "https://www.cdc.gov/healthy-pets/emergency-preparedness/index.html",
+          "locator": "Emergency preparedness; Returning home; Tips for handling injured pets",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1008",
+      "title": "Pack a short-trip kit as ten separate systems",
+      "summary": "Check a day-outing pack by function, then practice using it before extending the trip.",
+      "category": "Wilderness Skills & Natural Resources",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: A system-based pack check reduces the chance that a familiar object is present but unusable. The National Park Service's Ten Essentials is a starting framework, not a universal packing list. Weather, terrain, remoteness, activity, group needs, and site rules may require additional equipment, specialist training, or cancellation.",
+        "Write a modest trip plan: Record the intended route, start time, expected return, companions, and who will act if you do not check in. Leave the plan with a responsible contact. Download or print location-specific information while connected. Do not turn the availability of a navigation device into an assumption that a closed route, flood crossing, or technical terrain is safe.",
+        "Check the first five functions: Navigation requires an appropriate map and a tool you know how to use; carry a physical backup. Sun protection should address skin and eyes. Extra clothing should match the worst plausible conditions rather than only the departure temperature. Illumination needs a working light and compatible spare power. First-aid supplies must suit the group and remain within the users' training.",
+        "Check the remaining functions: The NPS framework also includes fire, repair tools, extra food, hydration with appropriate water treatment, and emergency shelter. Fire equipment must remain compatible with local restrictions and safe conditions; carrying it is not permission to light a fire. Choose repairs you can perform, food that requires little preparation, and a shelter you have actually set up.",
+        "Test the dependencies: Turn the light on, inspect battery contacts, open the map, and check that water-treatment instructions are legible. Verify that a charging lead fits both the power source and the device. A packed stove without an appropriate fuel supply or a filter without a serviceable element does not meet its intended function. Keep essential items reachable without unloading the entire bag in rain.",
+        "Conduct a low-consequence rehearsal: Walk a familiar short route with a safe return option. Note discomfort, inaccessible items, unreadable instructions, and equipment you cannot use confidently. Correct those issues before increasing distance or exposure. If conditions exceed the plan or someone becomes unwell, turn back or seek help early rather than trying to prove that the pack can compensate."
+      ],
+      "sources": [
+        {
+          "organization": "U.S. National Park Service",
+          "title": "Ten Essentials",
+          "url": "https://www.nps.gov/articles/10essentials.htm",
+          "locator": "Navigation; Extra clothing; First-aid supplies; Emergency shelter",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1009",
+      "title": "Make a portable-generator safety and load plan",
+      "summary": "Separate carbon-monoxide prevention, electrical compatibility, and fuel handling before a generator is needed.",
+      "category": "Power Generation & Electricity",
+      "priority": "P0",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope and immediate danger: A portable generator can cause fatal carbon-monoxide poisoning, fire, or electrical injury. This planning guide does not authorize building wiring or provide connection instructions for a panel. Use manufacturer documentation and a qualified electrician for approved installation arrangements. If a CO alarm sounds or poisoning is suspected, move to fresh air immediately and call emergency services; do not remain inside to diagnose the source.",
+        "Choose a safe operating location: CDC says generators must operate outside, more than 20 feet from windows, doors, and vents. Never run one inside a home or garage, even with doors and windows open. Consider neighboring openings as well as your own, changing wind, and whether exhaust could collect. An open shed or partially enclosed space is not a substitute for the required outdoor location.",
+        "Plan detection and supervision: Install battery-operated or battery-backup CO detectors near sleeping areas according to their instructions. Test and replace them as the manufacturer directs. CO is colorless and odorless; a lack of smell does not establish safety. Headache, dizziness, weakness, vomiting, chest pain, and confusion can be signs of poisoning, but an absence of symptoms is not a reliable monitoring method.",
+        "Prepare the load list: For each intended appliance, record the exact model, manufacturer-rated power requirements, startup requirements where specified, and the priority of the need. Compare the combined requirements with the generator's documented continuous and surge limits. Do not infer compatibility from plug fit or invent a starting-watt multiplier. Life-support or temperature-sensitive medical equipment requires its own professional continuity plan.",
+        "Keep connections within instructions: Do not feed power into a household outlet or improvise a connection to building wiring. Arrange any transfer equipment through a qualified electrician. Use only compatible equipment and cords rated for the intended conditions and load; keep damaged cords out of service. Water and electrical equipment create additional hazards that require a manufacturer-approved solution, not a homemade enclosure around a running generator.",
+        "Plan fuel and shutdown: Follow the generator's instructions for fuel, cooling, refilling, maintenance, and storage. Keep fuel away from ignition sources and never refuel hot or running equipment. Put the location, load order, inspection notes, and responsible operator on a printed card. A generator that cannot be positioned or connected safely should remain off while you use another continuity option."
+      ],
+      "sources": [
+        {
+          "organization": "CDC",
+          "title": "About Carbon Monoxide Poisoning",
+          "url": "https://www.cdc.gov/carbon-monoxide/about/index.html",
+          "locator": "Symptoms; CO detectors; Portable generators; Chimneys, charcoal, and portable appliances",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1010",
+      "title": "Document building damage without entering an unsafe structure",
+      "summary": "Create a useful observation record for occupants, owners, insurers, and qualified assessors while maintaining a clear no-entry boundary.",
+      "category": "Construction & Structural Repair",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This guide covers observation and documentation from a location already known to be safe. It is not a structural inspection, a re-entry clearance, or a repair specification. Leaning walls, displaced foundations, sagging roofs, fallen masonry, gas odor, damaged electrical equipment, and official exclusion notices are reasons to stay away and contact the appropriate authority or qualified professional.",
+        "Define the boundary: Identify a safe place from which to observe without crossing damaged ground, debris, standing water, or utility hazards. Keep people away from the potential fall area; do not approach a visibly unstable feature just to improve a photograph. Follow emergency-service instructions and property-access rules. No photograph is worth entering a building whose safety is uncertain.",
+        "Build an observation log: Record date, time, observer, viewing location, weather, and which side of the structure is visible. Give each photograph a simple identifier that matches the log. Describe visible changes such as “new diagonal crack above the north window” rather than stating that a foundation has failed. Record approximate dimensions only if they can be observed safely, and label estimates as estimates.",
+        "Preserve context: Take a wider view before a detail view from the same safe position. Include permanent landmarks that help an assessor identify the location later. Keep original files with their timestamps and avoid editing away important context. Make copies for sharing and retain an unaltered set; avoid posting identifiable household information publicly.",
+        "Communicate the limit: Tell recipients where you stood and which areas you could not see. “No damage visible from the street” is not equivalent to “the building is safe.” Keep utility shutdowns, roof access, temporary supports, and structural alterations out of an untrained observer's task list. Those actions can create new hazards and need the relevant professional or authority.",
+        "Track the decision: Record whom you contacted, what instructions they gave, and whether those instructions restrict access. Put the latest access decision in a clearly dated place. Do not remove a closure notice or allow a familiar occupant's confidence to substitute for a qualified assessment."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1011",
+      "title": "Create a repair job card before taking equipment apart",
+      "summary": "Record symptoms, safe isolation requirements, parts, and stop points so a repair does not become an undocumented experiment.",
+      "category": "Mechanical Systems & Fabrication",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: A repair job card supports work you are already competent and authorized to perform. It does not supply a machine-specific isolation procedure or permission to defeat a guard. Electrical systems, stored pressure, springs, elevated loads, hot surfaces, fuel, and rotating components can remain hazardous after a switch is turned off. If the necessary isolation and verification are unknown, label the equipment out of service and seek qualified help.",
+        "Capture the symptom: Record equipment identity, model, serial number, operating context, last successful use, and exactly what changed. Distinguish an observation from a proposed cause. A stopped pump may have several causes; writing “motor failure” too early can lead to unnecessary disassembly. Note unusual sounds, indications, leaks, and recent maintenance without energizing unsafe equipment to reproduce them.",
+        "Gather the right information: Obtain the correct manual, service limits, part diagram, and required tools. Record the manual revision and any consumables needed. Confirm that replacement parts match the actual model rather than only appearing similar. Set a clean work area where small parts can be contained, and arrange safe handling for heavy or awkward components.",
+        "Record a safe work boundary: Identify who may perform the work and the manufacturer-approved isolation process they will follow. Include the verification step and who is responsible for preventing unexpected operation. Do not use this generic card as a substitute for lockout requirements, site procedures, or hands-on training. Uncertainty about stored energy is a stop condition.",
+        "Keep the assembly trail: If disassembly is permitted, take photographs and label removable parts by sequence and orientation. Use containers rather than leaving hardware loose. Write down observations as they occur. Do not assume that an extra washer, seal, spacer, or guard is optional, and do not invent torque values or clearances where the manufacturer specifies them.",
+        "Close with a controlled result: Reassembly, inspection, and testing must follow the equipment's documented procedure. Record which checks passed, any remaining fault, and whether the equipment is released or still out of service. A machine that runs briefly is not automatically safe. Save the job card so the next person knows what was actually changed."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1012",
+      "title": "Set up a low-water handwashing station",
+      "summary": "Arrange safe water, soap, drainage, and a clear cleaning routine where ordinary plumbing is interrupted.",
+      "category": "Water, Waste & Public Sanitation",
+      "priority": "P0",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: A handwashing station should make proper washing easy without contaminating the stored clean water. It supports household hygiene during a service interruption; it does not treat sewage, disinfect drinking-water storage, or replace public-health instructions. If water contamination is suspected, use safe bottled, boiled, or appropriately treated water as directed by local authorities.",
+        "Lay out clean and dirty sides: Put a stable covered water container with a dispensing tap on a secure surface. Place soap and a clean drying option where they remain reachable without touching a contaminated collection bucket. Arrange a separate container below the tap to capture wastewater. Keep the station away from food preparation, electrical hazards, and stored drinking-water openings.",
+        "Test the flow and access: Confirm the container cannot tip when a person operates the tap and that children or people with limited mobility can reach it safely. A small steady stream can support washing without a constantly running household faucet. Do not ask people to dip their hands into a common clean-water container or rinse in a shared bowl that progressively accumulates contamination.",
+        "Use the five-step method: CDC advises wetting hands with clean running water, applying soap, lathering the backs of hands, between fingers, and under nails, scrubbing for at least 20 seconds, rinsing well, and drying with a clean towel or air dryer. Place a short instruction card near the station rather than relying on someone to remember a demonstration.",
+        "Make the important moments explicit: Wash before preparing or eating food, before and after treating a wound or caring for someone who is sick, after using the toilet or changing a diaper, and after handling animals, animal waste, or garbage. A station that is difficult to find or empty during these tasks is not functioning as intended.",
+        "Maintain and dispose safely: Assign a person to refill the clean supply, inspect the tap and support, replenish soap, and manage wastewater before the collection container overflows. Follow local sanitation guidance for disposal; do not pour contaminated wastewater into a drinking-water source or onto a food-growing bed. When soap and water are unavailable, CDC recommends sanitizer containing at least 60% alcohol, but it does not replace soap and water in every circumstance."
+      ],
+      "sources": [
+        {
+          "organization": "CDC",
+          "title": "About Handwashing",
+          "url": "https://www.cdc.gov/clean-hands/about/index.html",
+          "locator": "Key times to wash hands; How it works",
+          "accessed_on": "2026-11-05"
+        },
+        {
+          "organization": "CDC",
+          "title": "How to Make Water Safe in an Emergency",
+          "url": "https://www.cdc.gov/water-emergency/about/index.html",
+          "locator": "Overview; Boil; Disinfect; Filter",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1013",
+      "title": "Separate cooking and heating decisions during an outage",
+      "summary": "Choose non-combustion alternatives first and avoid turning a cooking appliance into an improvised room heater.",
+      "category": "Fire, Heating & Cooking Systems",
+      "priority": "P0",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This guide helps identify unsafe combinations before an outage. It does not design a stove, flue, fuel system, or emergency heater. Follow appliance instructions, building rules, and local fire guidance. If safe indoor temperatures or food preparation cannot be maintained, use a safer location or an established assistance service rather than improvising combustion indoors.",
+        "Inventory the actual appliances: List what each device is designed to do, the fuel it requires, where it is permitted to operate, and any ventilation or clearance instructions. Keep the manual with the equipment. Do not infer an indoor rating from a product being small, portable, or marketed for emergencies. An outdoor cooking device does not become an indoor heater when its flame is low.",
+        "Remove the dangerous substitutions: CDC warns never to heat a home with a gas oven, burn charcoal indoors, or use a portable gas camp stove indoors. A garage, tent, enclosed porch, or partly open room can still trap carbon monoxide. Cracking a window or relying on smell does not make an unsuitable appliance safe; CO cannot be detected by smell.",
+        "Plan meals that reduce fuel demand: Keep some food that can be eaten without cooking and a manual means of opening suitable packages. Consider dietary needs and safe water requirements. If cooking outdoors is permitted and safe, keep the task separate from sleeping and sheltering arrangements, and follow the manufacturer's placement, stability, and fuel-handling instructions. Do not leave a burning appliance unattended.",
+        "Plan warmth as a separate need: Identify clothing, bedding, safe room use, and a destination with safe heating if the home becomes unsuitable. Include people whose medical needs make temperature loss more urgent. Battery-backed CO alarms near sleeping areas add protection where fuel-burning appliances exist, but an alarm is not permission to operate prohibited equipment.",
+        "Write the stop conditions: An alarm, smoke where it should not be, fuel leakage, appliance damage, or suspected poisoning ends the task. Move people to safety and contact emergency services as appropriate. Keep the plan simple enough that a tired household member can tell which devices must remain off."
+      ],
+      "sources": [
+        {
+          "organization": "CDC",
+          "title": "About Carbon Monoxide Poisoning",
+          "url": "https://www.cdc.gov/carbon-monoxide/about/index.html",
+          "locator": "Symptoms; CO detectors; Portable generators; Chimneys, charcoal, and portable appliances",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1014",
+      "title": "Write and relay a concise emergency status message",
+      "summary": "Use a repeatable message format, explicit read-back, and a small log when communications are intermittent.",
+      "category": "Radio & Emergency Communications",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This is a message-writing workflow for lawful communications methods already available to you. It does not grant radio operating privileges or substitute for official emergency dispatch procedures. Use the appropriate emergency number for urgent help when available, and follow the instructions of dispatchers and local authorities.",
+        "Prepare the message before transmitting: Write the sender, intended recipient, date and time, location, situation, requested action, and a way to reply. Use a recognized place name or address rather than an unfamiliar nickname. Include the nearest useful landmark only when it improves location accuracy. Keep private medical or identity details off an open channel unless they are necessary and appropriate for the recipient.",
+        "Put the need first: “Request transport for two adults at [location]; route access confirmed at [time]” is more useful than a long narrative with the request buried at the end. State what is confirmed and what remains uncertain. Do not make an estimate sound like a measured fact, and do not repeat an unverified rumor as an official warning.",
+        "Make numbers hard to mishear: Use short groups, pause between important fields, and have the receiver repeat critical details such as the location and requested action. Correct an error directly instead of merely saying “no.” Where a service prescribes an approved phonetic alphabet or message form, learn and use that procedure rather than inventing a competing one during the incident.",
+        "Log the handoff: Record when the message was sent, by which channel, who acknowledged it, and any promised follow-up. A transmitted message is not necessarily a delivered message, and an acknowledgment is not confirmation that help has been dispatched. Keep these states distinct. If a relay is needed, preserve the original time and identify the relay time separately.",
+        "Set a retry boundary: Agree on a check-in time and fallback method before batteries or connectivity fail. Avoid repeated long transmissions that block other urgent traffic. If communication becomes impossible, follow the prearranged location and safety plan rather than sending someone into a hazard solely to find a signal."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1015",
+      "title": "Test a digital backup by restoring a separate copy",
+      "summary": "Turn “I copied the files” into evidence that important information can actually be recovered.",
+      "category": "Computing & Offline Information Systems",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: A backup is useful only if the required files can be found, read, and restored with the available equipment. This workflow covers a small personal collection or the Survival Cache export. It is not an enterprise disaster-recovery specification, an encryption standard, or a guarantee against every type of corruption. Keep the original intact while testing.",
+        "Define the recovery set: List the documents, data files, instructions, software versions, and credentials or recovery information needed to make the collection usable. Keep secrets separate from an unprotected public archive. Note file formats and whether specialized software is required. The Library of Congress's preservation resources emphasize sustainable formats, metadata, and packaging; a folder of unexplained files can remain difficult to use even when every byte survives.",
+        "Make the copy identifiable: Give each backup a date, a short description, and the source device or collection. Store it on a distinct medium or in another suitable location rather than only another folder on the same failing device. If encryption is needed, use a supported tool you understand and arrange secure recovery of its key. A forgotten key can make an otherwise sound backup unrecoverable.",
+        "Verify the file set: Compare names, counts, and sizes where practical. A checksum can detect a changed file when compared with a trusted earlier checksum, but it does not prove factual accuracy, ownership, or freedom from malicious content. Keep the checksum record with enough context to identify the intended version. Do not alter a checksum to make a mismatch disappear.",
+        "Restore into a separate destination: Use a temporary folder, another device, or a clean browser profile as appropriate. Avoid overwriting the working original. Open representative documents and check that attachments, indexes, and linked files are present. For an application backup, import through the supported interface and check the resulting records, not just whether the file picker accepted the file.",
+        "Record the recovery result: Write the date, software used, sample files checked, failures, and elapsed time. Keep the original and earlier good backups until you have a verified replacement and understand the retention needs. Repeat a restoration test after major format or application changes; a successful test from several years ago may no longer describe the current collection."
+      ],
+      "sources": [
+        {
+          "organization": "Library of Congress",
+          "title": "Digital Preservation at the Library of Congress",
+          "url": "https://www.loc.gov/preservation/digital/",
+          "locator": "Sustainability of Digital Formats; Tools and Open Source Software",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1016",
+      "title": "Keep units attached from measurement to calculation",
+      "summary": "Prevent avoidable errors by recording quantities, conversion factors, and the precision the task actually supports.",
+      "category": "Mathematics, Science & Measurement",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: A quantity without a unit is incomplete information. A note that says “add 5” cannot distinguish milliliters, liters, grams, or another measure. This guide describes ordinary measurement records and calculations; it does not authorize medication dosing, engineering tolerances, or safety-critical design. Such work needs the relevant validated procedure and competent review.",
+        "Record what was measured: Write the quantity name, number, unit, date, instrument, and relevant conditions. For example, “container volume 2.0 L, measured with marked jug” is more useful than a bare “2.” Separate direct measurements from estimates and manufacturer ratings. NIST describes SI quantity values as a numerical value paired with a unit; carrying that pair through the record makes interpretation much safer.",
+        "Choose a consistent working unit: Pick a unit appropriate to the task and convert incoming values explicitly. Write the conversion factor so unwanted units cancel. For example, 2 L multiplied by 1,000 mL/L equals 2,000 mL. Check the prefix and capitalization; similar-looking symbols can represent different quantities. Do not substitute a familiar household scoop for a calibrated measure in a task that requires precision.",
+        "Show the calculation: Put the equation and units on the page before inserting numbers. For a resource-rate estimate, divide the available quantity by the consumption rate in the same unit system. The result should have the expected unit, such as days. If the units do not work, stop and correct the setup before trusting the number.",
+        "Check magnitude and uncertainty: Ask whether the result is plausible compared with the original measurement. A result a thousand times larger than expected often points to a prefix or conversion error. Avoid reporting many decimal places from a rough measurement. Record the uncertainty or approximation in ordinary language if you do not have a justified numerical uncertainty model.",
+        "Use an independent check for consequential work: A second person should repeat the setup from the original record rather than merely agree that the answer looks reasonable. Keep both the input and calculation so a later reader can identify where a discrepancy arose. A neat-looking spreadsheet does not correct a wrong unit or an unsupported assumption."
+      ],
+      "sources": [
+        {
+          "organization": "NIST",
+          "title": "SI Units",
+          "url": "https://www.nist.gov/pml/owm/metric-si/si-units",
+          "locator": "SI Units; Writing with the SI",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1017",
+      "title": "Preserve a small paper reference collection",
+      "summary": "Protect maps, manuals, and household records through careful handling, storage, and a useful finding list.",
+      "category": "Knowledge Preservation & Education",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This guide covers a small collection of ordinary paper documents that is already dry and safe to handle. Valuable, fragile, moldy, chemically contaminated, or badly water-damaged items may need a conservator and special precautions. Do not attempt chemical cleaning, bleaching, or improvised repair on an important original based on this article.",
+        "Create a finding list: Give each item or folder a stable identifier, title, date or edition when known, language, and storage location. Record missing pages and known limitations. Keep a copy of this list outside the main box so another person can locate a manual without handling every item. Separate current operational instructions from older editions while preserving the history where it matters.",
+        "Handle deliberately: Use clean hands and a clean, dry work surface. Keep food and drink away. Support a sheet or map while moving it rather than allowing a fragile edge to carry its weight. The Library of Congress advises avoiding paper clips, rubber bands, dog-ear folds, self-adhesive tape, and glue on works on paper. Put working annotations on a separate sheet instead of marking an important original.",
+        "Choose a stable storage place: Use a cool, relatively dry, clean location away from direct light, leaks, radiators, and large environmental swings. Avoid treating a basement or attic as automatically suitable. Support papers in appropriate folders or boxes and protect oversized items without repeated folding. Materials and enclosures must suit the document; some media are sensitive to otherwise useful storage products.",
+        "Make working copies: For frequently used instructions, preserve the original and use a clear copy where appropriate. Include the title, edition, source, and copying date so a detached page retains context. A digital scan should include all pages and readable diagrams; inspect the result before assuming the scanning task succeeded. Respect copyright and access restrictions when distributing copies.",
+        "Review accessibility: Ask someone else to find a named document using only the list. Repair the index when an item moves. Store a small set of essential instructions in an immediately accessible location while keeping a broader collection protected. Preservation succeeds when the content remains both intact and findable."
+      ],
+      "sources": [
+        {
+          "organization": "Library of Congress",
+          "title": "Care, Handling, and Storage of Works on Paper",
+          "url": "https://www.loc.gov/preservation/care/paper.html",
+          "locator": "Proper Care and Handling; Proper Storage",
+          "accessed_on": "2026-11-05"
+        },
+        {
+          "organization": "Library of Congress",
+          "title": "Digital Preservation at the Library of Congress",
+          "url": "https://www.loc.gov/preservation/digital/",
+          "locator": "Sustainability of Digital Formats; Tools and Open Source Software",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1018",
+      "title": "Prepare a paper route card and turnaround plan",
+      "summary": "Record landmarks, decisions, alternatives, and check-in arrangements before a route depends on a single phone.",
+      "category": "Navigation & Cartography",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: A route card supports ordinary travel on routes appropriate to your skills and conditions. It does not teach technical navigation, authorize entry into closed areas, or make a flood crossing safe. Use current local maps, restrictions, weather information, and competent local advice. If you cannot identify a safe route, postponing travel may be the correct decision.",
+        "Define the trip: Write the destination, purpose, expected start, intended return, companions, and contact who holds the plan. Name the map and its date or edition. Include a physical map as a backup, as recommended in the NPS Ten Essentials, and learn how to use it before depending on it. An offline map needs testing in airplane mode before departure.",
+        "Break the route into legs: For each leg, note the start, destination, recognizable landmarks, approximate distance, expected surface, and important junctions. Distinguish an established landmark from a temporary sign or a feature that might disappear in bad weather. Do not invent a bearing or distance when the map cannot support it; mark the gap for resolution before travel.",
+        "Set explicit decisions: Record where you will check progress, reassess conditions, turn around, or use a known alternative. Include daylight, group condition, route closure, and communication limits. Estimated travel times should be treated as planning estimates rather than promises. A slow leg is a reason to review the remaining plan, not automatically a reason to hurry into greater exposure.",
+        "Exclude unsafe crossings: National Weather Service guidance warns against walking or driving into floodwater and against going around barriers. A route card's alternate should avoid the hazard, not specify a guessed safe depth. A familiar road can have hidden damage after flooding. Keep the decision to stop available even when an alternative would take much longer.",
+        "Close the loop: Carry the card in a weather-protected form and leave the agreed copy with your contact. State when they should act if you fail to check in and which local service they should contact. When plans change, inform that person if possible. On safe return, close the trip so someone does not begin an unnecessary search."
+      ],
+      "sources": [
+        {
+          "organization": "U.S. National Park Service",
+          "title": "Ten Essentials",
+          "url": "https://www.nps.gov/articles/10essentials.htm",
+          "locator": "Navigation; Extra clothing; First-aid supplies; Emergency shelter",
+          "accessed_on": "2026-11-05"
+        },
+        {
+          "organization": "National Weather Service",
+          "title": "Turn Around Don’t Drown",
+          "url": "https://www.weather.gov/safety/flood-turn-around-dont-drown",
+          "locator": "Floodwater risks and road barriers",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1019",
+      "title": "Make a vehicle readiness folder for essential journeys",
+      "summary": "Bring together manufacturer information, inspection records, recovery contacts, and a conservative go/no-go decision.",
+      "category": "Transportation & Vehicle Maintenance",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This is a documentation and readiness workflow, not a repair manual. It does not cover emergency driving maneuvers, roadside work in traffic, or modifications to a vehicle. Use the owner's manual, applicable law, and qualified maintenance providers for the actual vehicle. Do not treat an approaching emergency as a reason to drive a vehicle with a known safety defect.",
+        "Identify the vehicle and people: Record vehicle make, model, registration details where appropriate, service contact, roadside assistance arrangements, and the people normally transported. Keep private records protected rather than visible through a window. Consider child restraints, mobility equipment, animals, and the loading space needed for the intended journey before packing extra supplies.",
+        "Use the manufacturer's checks: Review the manual for tire information, load limits, fluids, warning indicators, and service intervals. Record the date and outcome of checks you are competent to perform. Do not copy another vehicle's tire pressure or load limit. A persistent warning, leak, damaged tire, or unusual braking behavior needs appropriate professional attention rather than a checklist tick.",
+        "Plan the journey and fallback: Record the destination, alternative, expected route, fueling or charging needs, and check-in arrangement. Confirm that the destination is actually usable. Account for closures and degraded services without assuming that a familiar station, bridge, or charging point will operate. Do not plan fuel storage or improvised electrical connections without the relevant safe, approved arrangements.",
+        "Set no-go conditions: Decide in advance that closures, floodwater, unsafe visibility, driver impairment, or a vehicle safety fault can cancel or interrupt the trip. The National Weather Service warns never to drive around a barrier or into floodwater. Apparent shallowness, another vehicle's passage, and a large vehicle are not evidence that the route is safe.",
+        "Review after use: Record issues encountered, fuel or battery use, and items that were inaccessible when needed. Keep the next maintenance appointment and unresolved faults visible. A readiness folder is useful when it changes a decision, not when it merely becomes another bundle of papers in the glove compartment."
+      ],
+      "sources": [
+        {
+          "organization": "National Weather Service",
+          "title": "Turn Around Don’t Drown",
+          "url": "https://www.weather.gov/safety/flood-turn-around-dont-drown",
+          "locator": "Floodwater risks and road barriers",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1020",
+      "title": "Audit household access without blocking emergency exits",
+      "summary": "Improve ordinary door, window, key, and visitor routines while keeping escape and accessibility needs intact.",
+      "category": "Security & Personal Safety",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This is a nonviolent household-access review. It is not a security guarantee, advice to confront intruders, or a design for barriers or traps. If you face an immediate threat, move to safety and contact the appropriate emergency service. Changes to doors, locks, alarms, and shared buildings must respect fire, accessibility, tenancy, and local legal requirements.",
+        "Map ordinary access: List exterior doors, usable exits, accessible windows, shared entrances, and the people who need authorized access. Include visitors, carers, delivery arrangements, and a safe way for emergency assistance to reach someone who cannot come to the door. Do not place sensitive access details on a publicly visible plan.",
+        "Inspect function before adding hardware: Check whether doors close properly, existing locks operate as intended, and windows or frames have visible damage. Report faults to the owner or an appropriate tradesperson. A stronger lock does little for a door that cannot latch, and additional hardware can create a new escape problem if occupants cannot operate it easily.",
+        "Preserve escape: From the occupied side, confirm that the household's required exits remain usable in an emergency according to applicable rules. Do not install improvised bars, concealed obstructions, or devices that require unfamiliar actions during a fire. Include children, older adults, and people with limited dexterity in the practical usability check without asking them to perform an unsafe test.",
+        "Agree on simple routines: Decide who may receive spare keys, how lost keys are reported, how a visitor's identity is checked without opening access unnecessarily, and what happens when a household member is overdue. Avoid publishing absence patterns or access codes. Use calm, consistent procedures rather than a plan that depends on a frightened person making a confrontation.",
+        "Record and revisit: Keep the list of faults, responsible person, and completion date. Review access after a move, a change in carers, or a lost key. When adding a device, obtain its instructions and verify that every authorized user can operate it and that emergency egress has not been compromised."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1021",
+      "title": "Recognize a flooded-route stop decision",
+      "summary": "Use a firm stop rule and a safe retreat plan instead of estimating a crossable depth.",
+      "category": "Natural Disasters & Environmental Hazards",
+      "priority": "P0",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This guide addresses encountering floodwater across a walking or driving route. It does not provide water-rescue training or a method for crossing. Follow evacuation instructions and emergency-service directions. When water blocks the route, the safe decision is to avoid entry rather than attempt to calculate whether a particular person or vehicle can manage it.",
+        "Recognize what you cannot see: Floodwater can hide a washed-out road, a missing cover, debris, electrical hazards, or a much deeper channel. Its surface does not reliably reveal current strength or the condition of the ground underneath. A route that was passable earlier can change quickly. Another person's successful crossing is not evidence of safety for the next attempt.",
+        "Stop before the water: Do not drive or walk around a closure barrier. National Weather Service guidance explicitly warns against both driving and walking into floodwater. Avoid approaching the edge to take a depth measurement or photograph. If stopping in the current position creates a traffic hazard, choose a safe stopping or turning place without entering the flooded area.",
+        "Choose a real alternative: Use current official information and a known route that avoids the affected area. Do not accept a navigation application's suggested detour without assessing whether it leads to another low crossing or closed road. If no safe alternative can be established, remain in a suitable safe place or seek local assistance rather than exploring uncertain roads under pressure.",
+        "Communicate the decision: Tell waiting household members that the delay is a safety decision, not a navigation mistake. Share the closure location and observation time with relevant authorities or contacts when safe to do so. Mark the report as your observation, not a claim that every nearby road has the same condition. Do not use a phone while driving.",
+        "If circumstances worsen: Move toward an established safer location before rising water removes options, following official directions. If you become trapped or someone is in immediate danger, contact emergency services and give the best available location. Do not enter moving water to attempt an untrained rescue; doing so can create additional victims. This article deliberately gives no universal “safe depth” because that would invite a false threshold."
+      ],
+      "sources": [
+        {
+          "organization": "National Weather Service",
+          "title": "Turn Around Don’t Drown",
+          "url": "https://www.weather.gov/safety/flood-turn-around-dont-drown",
+          "locator": "Floodwater risks and road barriers",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1022",
+      "title": "Run a neighborhood needs-and-offers desk",
+      "summary": "Match specific requests to voluntary help with consent, clear boundaries, and a traceable handoff.",
+      "category": "Emergency Management & Community Response",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose and limits: A small needs desk can reduce duplicate errands and missed requests during a disruption. It is not an emergency dispatch service, a medical triage system, or authority to enter homes. Urgent danger belongs with the appropriate emergency service when reachable. Participation must be voluntary, and sensitive information should be shared only with the people who need it to carry out an agreed task.",
+        "Create a minimal request record: Give each request a short identifier, time received, requester contact method, general location, requested action, and current status. Ask permission before recording personal details. Record the task rather than a public list of vulnerable residents. Keep paper records protected and agree who can access the desk.",
+        "Separate needs from offers: An offer should describe available capability, time window, transport limits, and any relevant qualifications. Do not assume that willingness equals competence for electrical work, medical care, structural entry, animal handling, or hazardous cleanup. Volunteers must be free to decline tasks that exceed their training or comfort.",
+        "Make a deliberate match: Confirm the specific task, who will do it, who will receive the help, meeting or delivery arrangements, and when the desk should expect a result. Avoid sending someone alone into an uncertain location without an agreed check-in method. Do not promise a service on behalf of an agency or business that has not accepted the task.",
+        "Close the handoff: Keep separate states for requested, assigned, in progress, completed, and unable to complete. A name written beside a task does not establish that the help arrived. Ask for confirmation from the recipient or a reliable agreed contact. If a task fails, record the reason and reassign only after reviewing the constraint.",
+        "End responsibly: At shift change, hand over unresolved requests and the current contact method. When the desk closes, tell participants how ongoing needs will be handled. Retain or dispose of private records according to the agreed policy and applicable requirements; do not leave a household-needs list on a public noticeboard after the event."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1023",
+      "title": "Build a household continuity binder that someone else can use",
+      "summary": "Organize essential contacts, care arrangements, decisions, and copies without creating an unnecessary privacy risk.",
+      "category": "Family & Household Continuity",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: A continuity binder helps a trusted person understand the next useful action when the usual organizer is unavailable. It should not become a collection of passwords and identity documents left in an obvious public location. Separate an easily shared operating summary from protected records, and decide who may access each part.",
+        "Start with the first page: Record household contacts, a dated meeting plan, essential service contacts, and the location of the protected information. Use clear names and roles rather than unexplained initials. Include a way to reach a trusted contact outside the immediate area if that is part of your household plan. Confirm that the listed people have agreed to their roles.",
+        "Document essential dependencies: Record care schedules, accessibility needs, equipment support contacts, school or childcare arrangements, pet care, and transport alternatives as relevant. For medical instructions, use the current plan provided by the clinician rather than rewriting advice from memory. Avoid putting sensitive diagnoses in a version intended for wide distribution.",
+        "Make information usable offline: Keep legible printed copies of the operating summary and use dividers or a one-page contents list. Include dates and document editions. A QR code or web link alone is not an offline instruction. Test whether a person without your phone can find a named contact and understand the next step.",
+        "Protect the originals and copies: The Library of Congress recommends careful handling, clean work areas, and stable storage for paper. Use working copies where practical and store important originals appropriately. Do not tape or glue an important document into a homemade binder. Choose the storage location with both access and privacy in mind, including the risk of leaks or fire.",
+        "Review with the household: Walk through a realistic absence or evacuation scenario without exposing private material unnecessarily. Correct outdated contacts, missing permissions, and assumptions about transport or care. Date the review and identify who owns the next update. A smaller current binder is more useful than an impressive collection nobody can navigate."
+      ],
+      "sources": [
+        {
+          "organization": "Library of Congress",
+          "title": "Care, Handling, and Storage of Works on Paper",
+          "url": "https://www.loc.gov/preservation/care/paper.html",
+          "locator": "Proper Care and Handling; Proper Storage",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1024",
+      "title": "Create a sustainable daily rhythm after disruption",
+      "summary": "Use small routines, rest, connection, and clear escalation options to support coping without pretending distress has one timetable.",
+      "category": "Psychological Resilience & Group Dynamics",
+      "priority": "P1",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This is a practical self-support and group-routine guide, not a diagnosis or substitute for mental-health care. People react differently before and after a disaster; there is no single correct emotion or recovery schedule. If someone is in immediate danger or unable to stay safe, contact local emergency services. In the United States, call or text 988 for crisis support; availability and numbers differ elsewhere.",
+        "Choose a small daily anchor: Start with predictable opportunities to eat, rest, obtain essential information, and check in with a trusted person. A workable routine can be brief and flexible. Do not interpret someone missing an activity as proof they are uncooperative; pain, disability, fatigue, caregiving, and distress can change what is manageable.",
+        "Reduce the information load: SAMHSA recommends limiting constant news consumption when it increases distress. Agree on useful update times and a reliable information source, while leaving a route for urgent official warnings. Distinguish gathering information for a decision from repeatedly revisiting alarming material that does not change the plan. Different people may need different levels of exposure.",
+        "Protect basic care: Make space for meals, sleep, ordinary hygiene, and movement that is safe for the person and setting. Avoid using alcohol or drugs as a coping strategy. If sleep remains difficult, seek suitable professional advice rather than improvising medication or taking another person's prescription. A household schedule should support care, not become a rigid test of discipline.",
+        "Offer connection without pressure: Ask what would help and listen without demanding a detailed account of traumatic events. Offer specific practical help, such as sitting together, handling an agreed errand, or locating a service. Respect a person's choice to decline conversation. Children may need reassurance and age-appropriate explanations from trusted adults.",
+        "Know when support needs to expand: Persistent or worsening distress, difficulty managing daily life, increasing substance use, or concern about safety deserves professional support. SAMHSA lists the U.S. Disaster Distress Helpline at 1-800-985-5990. Keep locally relevant contacts in the household plan and check their current availability when connected. Record supportive arrangements with consent rather than maintaining a public log of someone's emotional state."
+      ],
+      "sources": [
+        {
+          "organization": "SAMHSA",
+          "title": "Coping Tips for Traumatic Events and Disasters",
+          "url": "https://www.samhsa.gov/mental-health/disaster-preparedness/coping-tips",
+          "locator": "Coping Tips; Need Help",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1025",
+      "title": "Hold a community decision meeting with a clear record",
+      "summary": "Make participation, authority, disagreement, and follow-through explicit during a temporary shared response.",
+      "category": "Community Organization & Governance",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This workflow helps a voluntary group make limited practical decisions. It does not create legal authority, replace elected bodies, or suspend anyone's rights. Use applicable organizational rules, tenancy agreements, local law, and emergency-service directions. Decisions affecting money, property, care, or access may require authority the group does not possess.",
+        "State the decision and who may make it: Write a short agenda with the actual question, the available options, and any deadline. Identify the facilitator, recorder, participants, and the rule for reaching a decision. Do not assume silence means agreement, especially where people cannot attend, understand the language, hear the discussion, or safely disagree.",
+        "Share the relevant facts: Give the source and time of important information and distinguish uncertainty from established constraints. Explain the practical consequences of each option, including who bears the work or risk. Avoid collecting unnecessary private details to justify a public decision. If a crucial fact is unknown, decide whether it can be checked before action rather than inventing certainty.",
+        "Make space for affected people: Invite concise concerns and alternatives, and provide a way to contribute without speaking in a large group when possible. Record unresolved objections fairly. A person should not have to disclose medical or financial information publicly to explain an accessibility need. Refer a specialist question to a competent person instead of resolving it by a show of hands.",
+        "Record a bounded decision: Write what was agreed, who is responsible, what resources are authorized, what must not be done, and when the decision will be reviewed. Record the actual decision rule used and whether any necessary consent remains outstanding. Avoid vague statements such as “everyone will help” that hide the absence of a named owner.",
+        "Publish and review: Share the non-sensitive decision record in an accessible format. At the review time, compare the intended result with what happened and change the plan when conditions or evidence change. Preserve the distinction between an emergency temporary arrangement and a permanent commitment. Close completed tasks so old instructions do not continue circulating as current policy."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1026",
+      "title": "Use a stock ledger to plan resupply without false precision",
+      "summary": "Track usable stock, demand, commitments, and reorder lead time in a form that survives a lost spreadsheet.",
+      "category": "Trade, Logistics & Resource Management",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: A stock ledger turns a cupboard count into a planning record. It works for household consumables or a small voluntary group's supplies. It does not set medical rationing, guarantee delivery, or justify unsafe conservation of essential water, food, or care. Plan around actual people and professional advice where needs are specialized.",
+        "Define one unit per item: Give each item a stable name, counting unit, storage location, and any relevant expiration or condition information. “Twelve bottles” is incomplete if bottle volumes differ. NIST's emphasis on numbers paired with units applies here: write liters, kilograms, individual units, or another explicit measure and keep it consistent across receipts and issues.",
+        "Count usable stock: Separate usable items from damaged, expired where relevant, recalled, or otherwise unavailable stock. Also distinguish stock already committed to a specific need. Record date, time, counter, and uncertainty. Do not erase a discrepancy merely to match an expected balance; investigate whether an issue, receipt, unit conversion, or counting error is missing.",
+        "Estimate consumption transparently: Record observed use over a stated period and label exceptional days. If a household uses an illustrative 6 L of a particular non-drinking supply per day and has 18 L usable, the arithmetic gives three days at that rate; it does not establish a safe human consumption allowance. A planning example must never silently become a health recommendation.",
+        "Include lead time and disruption: Identify who can obtain more, the normal delay, current access constraints, and a conservative review point. A reorder point needs to account for demand while waiting and a suitable uncertainty allowance. Do not assume an advertised item is actually available or that a vehicle and road will remain usable.",
+        "Reconcile regularly: Record each receipt and issue with date, quantity, unit, and purpose. Keep a printed blank form if the digital tool becomes unavailable. At the next count, compare the physical and recorded balance, explain discrepancies, and revise the forecast. A useful ledger shows its assumptions and unknowns rather than presenting a precise depletion date with no evidence behind it."
+      ],
+      "sources": [
+        {
+          "organization": "NIST",
+          "title": "SI Units",
+          "url": "https://www.nist.gov/pml/owm/metric-si/si-units",
+          "locator": "SI Units; Writing with the SI",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1027",
+      "title": "Manage a small backyard compost pile without accepting unsuitable waste",
+      "summary": "Keep a simple aerobic pile fed, covered, and observable while excluding materials a home system cannot reliably handle.",
+      "category": "Environmental Stewardship & Resource Renewal",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This guide covers a small backyard pile using suitable plant-derived kitchen scraps and yard material. It is not a sewage-treatment method, a carcass-disposal method, or evidence that a pile has sterilized every pathogen or weed seed. Follow local rules and site restrictions. Flood-contaminated material, unknown chemicals, and human or pet waste need appropriate disposal guidance rather than routine home composting.",
+        "Choose a manageable site: Use a location with drainage and year-round access that does not obstruct a path or press the pile directly against a fence. Keep the work compatible with local wildlife and nuisance rules. Provide a covered kitchen collection container and a separate supply of dry “browns,” such as leaves and suitable woody material, so each addition can be managed promptly.",
+        "Select the inputs: EPA distinguishes greens, including suitable food scraps, from carbon-rich browns. Exclude meat, fish, bones, dairy, fats, oils, pet waste, cat litter, treated or painted wood, herbicide-treated material, and diseased plants from this simple pile. Packaging labeled compostable may require a commercial facility and should not be assumed suitable for a backyard system.",
+        "Build for air and coverage: EPA suggests a four- to six-inch base of bulky browns and adding at least two to three times the volume of browns as greens. Chop tough material where safe. Cover food scraps with four to eight inches of browns. Keep the mixture about as moist as a wrung-out sponge rather than saturated; air and moisture are both necessary for the process.",
+        "Observe and correct: Check moisture, odor, exposed food, and evidence of pests. If the pile is too dry, moisten and turn it. If it smells bad, excess moisture or poor air circulation may be involved; add dry material and turn as appropriate. Do not take a warm center as proof that all of the pile has received a validated pathogen treatment.",
+        "Finish before use: When the pile no longer heats after mixing and recognizable food scraps are gone, EPA advises a curing period of at least four weeks. Keep a record of inputs and observations so persistent problems can be traced. If the pile attracts animals or receives unsuitable contamination, pause additions and obtain local advice rather than applying uncertain material to a food garden."
+      ],
+      "sources": [
+        {
+          "organization": "U.S. Environmental Protection Agency",
+          "title": "Composting At Home",
+          "url": "https://www.epa.gov/recycle/composting-home",
+          "locator": "Ingredients for Composting; Steps for Backyard Composting; What to Avoid Adding",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1028",
+      "title": "Distinguish a hazard, an exposure, and a control",
+      "summary": "Use a small vocabulary to make practical risk discussions more precise without hiding uncertainty behind a score.",
+      "category": "Survival Reference Encyclopedia",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: Clear terms help a household or volunteer group describe a problem consistently. In this article, a hazard is something with potential to cause harm, exposure describes contact with that hazard, and a control is a measure intended to reduce the chance or severity of harm. These working definitions support discussion; they do not replace a formal professional risk assessment or jurisdiction-specific terminology.",
+        "Name the hazard specifically: “Damaged extension cord with exposed conductor” is more actionable than “unsafe room.” State the location and observation time. Avoid labeling a person as the hazard when the relevant issue is a task, condition, or equipment failure. If identification requires specialist knowledge, record the uncertainty and obtain competent advice.",
+        "Describe the exposure: Identify who could come into contact with the condition, during which activity, for how long, and by which route. A closed and inaccessible area has a different exposure pattern from a walkway people use repeatedly. Include children, visitors, people with disabilities, and others whose needs are easy to miss. Do not infer consent or awareness from someone's presence.",
+        "Choose controls with a clear effect: Prefer removing the need for exposure where feasible, such as using a safe alternate route instead of instructing everyone to be careful at a damaged step. Physical and procedural controls must themselves be safe and lawful. A sign can communicate a boundary but may not prevent access; protective equipment only works within its actual rating and correct use.",
+        "Check the remaining uncertainty: Write what the control changes and what it does not. A flashlight may improve visibility without making an unstable floor load-bearing. A water filter may improve one aspect of water quality without treating every contaminant. Avoid using a simple red, amber, or green score to conceal these distinctions.",
+        "Review after conditions change: Assign an owner and a review time. Verify that the control remains in place and understandable. If the condition worsens, stop the task and reassess rather than assuming the original decision still applies. Record professional advice and official instructions separately from the group's provisional observations."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    },
+    {
+      "id": "OSC-1029",
+      "title": "Write a field observation sheet that another person can interpret",
+      "summary": "Capture time, place, method, uncertainty, and follow-up without turning guesses into measurements.",
+      "category": "Field Tools, Calculators & Forms",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Purpose: A field sheet preserves the context needed to interpret an observation later. It can support a garden log, household supply check, equipment inspection, or non-hazardous site visit. It does not make an untrained observer competent to perform a technical inspection. Do not enter a dangerous area simply because the form has an empty box.",
+        "Create the header: Record a unique sheet identifier, date, local time and time zone if relevant, observer, location, and purpose. Include the device or method used to identify the location. Use a description understandable to another person rather than a private nickname. Mark information that should remain private before the sheet is copied or shared.",
+        "Separate three kinds of entry: Provide distinct spaces for direct observation, measurement, and interpretation. “Surface wet,” “2.3 L measured with marked jug,” and “possible leak” are different statements. Pair quantities with units, following the measurement principle described by NIST. If a reading is estimated, obstructed, or outside an instrument's rated conditions, say so.",
+        "Make attachments traceable: Number photographs, sketches, samples where appropriate, or related files and refer to those identifiers in the sheet. Include a scale only if placing it is safe and the scale is appropriate. Do not alter a photograph in a way that removes important context without retaining an original. A close-up without a location reference may be impossible to interpret later.",
+        "Write the next action: Record whether the observation needs no action, another check, professional assessment, or immediate reporting through an established channel. Assign a responsible person and review time when a follow-up is agreed. Do not leave a safety concern buried in a form that nobody is expected to read.",
+        "Close and preserve: Review the sheet for missing units, ambiguous dates, and unlabeled estimates. Sign or otherwise identify the recorder and preserve corrections visibly rather than silently rewriting the history. Store the sheet where the intended reader can find it, and use a copy for field work when the original needs protection."
+      ],
+      "sources": [
+        {
+          "organization": "NIST",
+          "title": "SI Units",
+          "url": "https://www.nist.gov/pml/owm/metric-si/si-units",
+          "locator": "SI Units; Writing with the SI",
+          "accessed_on": "2026-11-05"
+        }
+      ],
+      "source_review": "Listed reference pages were retrieved and consulted on 2026-11-05. They support the subject matter identified by their locators; the workflow, examples, and wording are original adaptations. Pending independent fact, applicability, and safety review. No agency endorsement or editorial approval is claimed."
+    },
+    {
+      "id": "OSC-1030",
+      "title": "Teach one practical skill through a short supervised exercise",
+      "summary": "Choose a low-consequence task, demonstrate it clearly, and evaluate performance without treating attendance as competence.",
+      "category": "Practical Skills & Training Curriculum",
+      "priority": "P2",
+      "status": "draft",
+      "content_stage": "draft",
+      "body": [
+        "Scope: This exercise format is intended for low-risk tasks such as locating a document, assembling a personal information packet, or exporting and restoring a test backup. It does not qualify someone for medical, electrical, structural, rescue, or other hazardous work. Those skills require the relevant training, supervision, and assessment arrangements.",
+        "Define an observable outcome: Choose one small action that can be demonstrated safely. “Find the current contact sheet and identify its review date” is testable; “understand preparedness” is not. State the conditions, materials, expected result, and reasons to stop. Ensure the learner can ask questions or decline a task without embarrassment.",
+        "Prepare a forgiving environment: Use copies, dummy data, or an isolated test device so an error does not damage the real collection or disclose private information. Check accessibility, language, lighting, and the learner's familiarity with the tools. Keep unrelated equipment out of the work area and make the safe fallback obvious.",
+        "Demonstrate slowly: Show the whole task once, then repeat it in short steps while explaining the reason for critical actions. Point out common errors and how to recognize them. Avoid presenting a shortcut that depends on experience as if it were a universal instruction. Let the learner see the written reference they will use after the session.",
+        "Observe a return demonstration: Ask the learner to perform the task with the reference and normal support available. Watch the result rather than supplying every action in advance. If a mistake occurs, stop safely, explain it, and repeat the relevant part. A completed exercise should show that the learner can recognize a problem, not just reproduce a memorized sequence.",
+        "Record the real outcome: Note the date, task, conditions, help required, and any remaining practice need. Do not issue an “approved” or “qualified” label merely because the person attended. Agree on a short later practice to check retention. Use the difficulties revealed by the exercise to improve both the instructions and the environment."
+      ],
+      "sources": [],
+      "source_review": "Original practical-planning manuscript. No external references have yet been attached or verified. Pending external corroboration, applicability checks, and independent editorial review; not approved guidance."
+    }
+  ]
+}
