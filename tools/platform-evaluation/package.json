@@ -1,0 +1,19 @@
+{
+  "name": "osc-platform-evaluation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export": "python3 export.py",
+    "build": "python3 export.py && node build.mjs",
+    "test": "node test.mjs",
+    "package": "python3 package.py"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "0.42.9",
+    "astro": "7.4.7",
+    "tiddlywiki": "5.4.1"
+  }
+}

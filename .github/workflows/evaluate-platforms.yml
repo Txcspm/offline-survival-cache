@@ -1,0 +1,39 @@
+name: Evaluate Reusable Library Platforms
+on:
+  pull_request:
+    paths:
+      - 'tools/platform-evaluation/**'
+      - 'tests/test_platform_exports.py'
+      - 'app-data.js'
+      - 'knowledge/**'
+      - '.github/workflows/evaluate-platforms.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  evaluate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm ci --prefix tools/platform-evaluation
+      - run: python3 -m unittest discover -s tests -p test_platform_exports.py
+      - run: npm run build --prefix tools/platform-evaluation
+      - run: npm test --prefix tools/platform-evaluation
+      - run: npm run package --prefix tools/platform-evaluation
+      - uses: actions/upload-artifact@v5
+        with:
+          name: reusable-platform-prototypes
+          path: |
+            dist/platform-evaluation/*.zip
+            dist/platform-evaluation/*.html
+            dist/platform-evaluation/manifest.json
+            dist/platform-evaluation/smoke-results.json
+            dist/platform-evaluation/THIRD_PARTY_NOTICES.txt
