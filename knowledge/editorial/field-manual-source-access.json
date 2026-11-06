@@ -1,0 +1,96 @@
+{
+  "note": "Access evidence is not independent verification or endorsement. Page text was read in this authoring session; external pages may change. Full external page text is not redistributed.",
+  "records": [
+    {
+      "url": "https://www.cdc.gov/water-emergency/about/index.html",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "c33d4cad16d95fa39cb405f82d9cba230a7a5a1e5c027d61733baf918562094f",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.nps.gov/articles/10essentials.htm",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "10489e4ed6ac466cbd8ed77d62a5b28f2f89ba1142e32e09193c6dc145011d7c",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/planting-the-vegetable-garden",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "15dbdc8bf7e52fa82e3722e1280e34cef5b5296cca50460e0c1d3360171507f5",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.epa.gov/recycle/composting-home",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "59467d5605720ad0076406466c2cb2da604bc29af83ab073613465a9884ee70f",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.samhsa.gov/mental-health/disaster-preparedness/coping-tips",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "1a603dfcc690cb4a82a830a185c0b823d326df46a43a31a3917b742ecab6b91a",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.cdc.gov/carbon-monoxide/about/index.html",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "fc80ea85c12e5244a4d4e683757baef1a8aec0241c9ab621810935699114dcaf",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.cdc.gov/clean-hands/about/index.html",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "2c35d0abba7eb508821c5ac5b48778e6c422d26b9a4f60dc2bf1a0f360c37830",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.weather.gov/safety/flood-turn-around-dont-drown",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "0e72293f52e279129175a952e87cea53074e93b2d5d2978c3f91c9be561c1ff5",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "29fb66c597a30f21863e3283fb7c3ea891553788dae939c54ae8a0e8280f247e",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.loc.gov/preservation/care/paper.html",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "b5363ede29cb8a113ff66fa56009a662c4367443b221c15c5d515df2d0485c60",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "4e28bd0d7d2153cc5954d3ced4af4991d0167a95867c1a6a1c14e4e0947b3b91",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.cdc.gov/healthy-pets/emergency-preparedness/index.html",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "12a8a8ea2bd3455678e02cfb0972d43f9e54481cf47af3cf919d740b974841d8",
+      "editorial_approval": false
+    },
+    {
+      "url": "https://www.loc.gov/preservation/digital/",
+      "accessed_on": "2026-11-05",
+      "outcome": "retrieved and consulted",
+      "extracted_text_sha256": "97adce1becf7dd443c6c1b35514f010b314eaa9847e7e28e58b4e882d7cc5d90",
+      "editorial_approval": false
+    }
+  ]
+}
