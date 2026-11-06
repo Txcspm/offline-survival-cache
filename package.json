@@ -1,7 +1,7 @@
 {
   "name": "offline-survival-cache",
   "private": true,
-  "version": "0.7.0",
+  "version": "0.8.0",
   "scripts": {
     "build": "python3 tools/build_catalog.py && python3 tools/package_release.py",
     "test": "python3 -m unittest discover -s tests && playwright test"

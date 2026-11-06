@@ -1,13 +1,13 @@
 {
   "name": "Offline Survival Cache",
   "short_name": "Survival Cache",
-  "description": "An offline survival and civilization continuity reference library.",
+  "description": "An offline field library with local search, saved reading, private notes and portable backups.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#101b20",
-  "theme_color": "#101b20",
+  "background_color": "#f4f3ed",
+  "theme_color": "#1e2d26",
   "icons": [
     {
       "src": "./icon.svg",

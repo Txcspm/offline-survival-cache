@@ -32,3 +32,16 @@ Generated outputs: knowledge/catalog.json and knowledge/search-index.json.
 The catalog includes module SHA-256 hashes, review counts, and editorial flags.
 Run npm run build to also produce the Pages bundle and downloadable ZIP.
 Pages publication does not commit generated files back to the branch.
+
+Version 0.8 adds knowledge/modules/osc_field_manual_1001_1030.json: 30
+original manuscripts, 10,544 body words, all draft content and draft review.
+See knowledge/editorial/field-manual-review.md for article-level handoff and
+field-manual-source-access.json for access evidence. Consulted pages are not
+independent validation. Nine of these manuscripts still have no external
+references; their source_review explicitly records that gap.
+
+The app now loads app.js, app.css and app-data.js as local shell assets. Update
+sw.js VERSION when changing the shell; do not silently keep old shell bytes.
+Generated releases include serve.py and Windows/macOS starter scripts, plus
+START_HERE.txt. Private notebook and article annotations are never included
+in the published bundle. Full backup/restore is a user action in the app.
