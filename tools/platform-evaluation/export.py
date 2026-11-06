@@ -4,6 +4,8 @@ Outputs go to ignored dist/platform-evaluation. Generated editions contain only
 published repository inputs, not browser notes or private local data.
 """
 import json
+import importlib.util
+import tempfile
 import re
 import subprocess
 from collections import Counter
@@ -14,6 +16,14 @@ OUTPUT = ROOT / 'dist/platform-evaluation'
 
 
 def read_library():
+    # Reuse the existing editorial/schema gate without rewriting tracked catalogs.
+    spec = importlib.util.spec_from_file_location('osc_validation', ROOT/'tools/build_catalog.py')
+    validator = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(validator)
+    with tempfile.TemporaryDirectory() as directory:
+        validator.OUT = Path(directory)
+        if validator.build() != 0:
+            raise ValueError('Content validation failed; no prototype was exported')
     # app-data.js is trusted repository data. Node reads the existing category
     # tree and preserved originals without introducing a competing taxonomy.
     script = "const vm=require('node:vm'),fs=require('node:fs');process.stdout.write(vm.runInNewContext(fs.readFileSync(process.argv[1],'utf8')+';JSON.stringify({divisions:DIVISIONS,legacy:LEGACY_ARTICLES})'));"
