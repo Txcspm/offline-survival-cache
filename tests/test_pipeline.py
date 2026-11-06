@@ -38,3 +38,15 @@ class Pipeline(unittest.TestCase):
    for name,digest in catalog['modules'].items():self.assertEqual(sha256(archive.read(name)).hexdigest(),digest)
    self.assertIn('START_HERE.txt',archive.namelist())
    self.assertNotIn('article_studio.html',archive.namelist())
+ def test_authored_manuscripts_have_substantive_text_and_unapproved_review(self):
+  module=json.loads(Path('knowledge/modules/osc_field_manual_1001_1030.json').read_text())
+  self.assertEqual(len(module['articles']),30)
+  self.assertEqual({a['category'] for a in module['articles']},b.CATEGORIES)
+  for article in module['articles']:
+   with self.subTest(article=article['id']):
+    self.assertGreaterEqual(len(' '.join(article['body']).split()),250)
+    self.assertEqual(article['status'],'draft')
+    self.assertEqual(article['content_stage'],'draft')
+    self.assertNotIn('reviewed_by',article)
+    for source in article['sources']:
+     self.assertTrue(source['title']);self.assertTrue(source['locator']);self.assertEqual(source['accessed_on'],'2026-11-05')
